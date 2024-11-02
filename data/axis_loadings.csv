@@ -1,0 +1,1465 @@
+"Label","Network","Coarsenet","Axis","Loading"
+"17Networks_LH_VisCent_ExStr_1","VisCent","Visual","Implicit",0.000117920780165015
+"17Networks_LH_VisCent_ExStr_2","VisCent","Visual","Implicit",-0.000211488695920265
+"17Networks_LH_VisCent_ExStr_3","VisCent","Visual","Implicit",5.43027343067803e-05
+"17Networks_LH_VisCent_ExStr_4","VisCent","Visual","Implicit",-0.000230905484534951
+"17Networks_LH_VisCent_ExStr_5","VisCent","Visual","Implicit",-0.000354593970490137
+"17Networks_LH_VisCent_ExStr_6","VisCent","Visual","Implicit",-0.000659207794858728
+"17Networks_LH_VisCent_Striate_1","VisCent","Visual","Implicit",-0.000797215327933161
+"17Networks_LH_VisCent_ExStr_7","VisCent","Visual","Implicit",-0.000715481758606345
+"17Networks_LH_VisCent_ExStr_8","VisCent","Visual","Implicit",-0.000879343287009918
+"17Networks_LH_VisCent_ExStr_9","VisCent","Visual","Implicit",-0.000287646557426545
+"17Networks_LH_VisCent_ExStr_10","VisCent","Visual","Implicit",-0.000687765468057092
+"17Networks_LH_VisCent_ExStr_11","VisCent","Visual","Implicit",-0.000458010441887223
+"17Networks_LH_VisPeri_ExStrInf_1","VisPeri","Visual","Implicit",7.82605293864738e-05
+"17Networks_LH_VisPeri_ExStrInf_2","VisPeri","Visual","Implicit",6.69974382297139e-05
+"17Networks_LH_VisPeri_ExStrInf_3","VisPeri","Visual","Implicit",6.21914578109579e-05
+"17Networks_LH_VisPeri_ExStrInf_4","VisPeri","Visual","Implicit",0.000372134038817291
+"17Networks_LH_VisPeri_ExStrInf_5","VisPeri","Visual","Implicit",-0.00025408912759395
+"17Networks_LH_VisPeri_StriCal_1","VisPeri","Visual","Implicit",-0.000398957722668951
+"17Networks_LH_VisPeri_StriCal_2","VisPeri","Visual","Implicit",-0.00023734340145615
+"17Networks_LH_VisPeri_ExStrSup_1","VisPeri","Visual","Implicit",-0.000469348265741479
+"17Networks_LH_VisPeri_ExStrSup_2","VisPeri","Visual","Implicit",-0.000207562303592208
+"17Networks_LH_VisPeri_ExStrSup_3","VisPeri","Visual","Implicit",-0.000243254351760146
+"17Networks_LH_VisPeri_ExStrSup_4","VisPeri","Visual","Implicit",-0.000213085846373867
+"17Networks_LH_VisPeri_ExStrSup_5","VisPeri","Visual","Implicit",-0.000302495505917382
+"17Networks_LH_DorsAttnA_TempOcc_1","DorsAttnA","DorsAttn","Implicit",-0.0290510341883019
+"17Networks_LH_DorsAttnA_TempOcc_2","DorsAttnA","DorsAttn","Implicit",-0.000749083493662466
+"17Networks_LH_DorsAttnA_TempOcc_3","DorsAttnA","DorsAttn","Implicit",-0.0101085741830718
+"17Networks_LH_DorsAttnA_TempOcc_4","DorsAttnA","DorsAttn","Implicit",-0.0233711082486461
+"17Networks_LH_DorsAttnA_ParOcc_1","DorsAttnA","DorsAttn","Implicit",-0.020754250631792
+"17Networks_LH_DorsAttnA_ParOcc_2","DorsAttnA","DorsAttn","Implicit",-0.0164239374476726
+"17Networks_LH_DorsAttnA_SPL_1","DorsAttnA","DorsAttn","Implicit",-0.0228641168828577
+"17Networks_LH_DorsAttnA_SPL_2","DorsAttnA","DorsAttn","Implicit",-0.00980391641513567
+"17Networks_LH_DorsAttnA_SPL_3","DorsAttnA","DorsAttn","Implicit",-0.0374566944997764
+"17Networks_LH_DorsAttnA_SPL_4","DorsAttnA","DorsAttn","Implicit",-0.0229031231536439
+"17Networks_LH_DorsAttnA_SPL_5","DorsAttnA","DorsAttn","Implicit",0.00176013208957254
+"17Networks_LH_DorsAttnA_SPL_6","DorsAttnA","DorsAttn","Implicit",-0.0137785877735408
+"17Networks_LH_DorsAttnA_SPL_7","DorsAttnA","DorsAttn","Implicit",-0.00951659342875696
+"17Networks_LH_DorsAttnB_PostC_1","DorsAttnB","DorsAttn","Implicit",0.000774348664519166
+"17Networks_LH_DorsAttnB_PostC_2","DorsAttnB","DorsAttn","Implicit",0.0159382163319202
+"17Networks_LH_DorsAttnB_PostC_3","DorsAttnB","DorsAttn","Implicit",-0.00590055243706298
+"17Networks_LH_DorsAttnB_PostC_4","DorsAttnB","DorsAttn","Implicit",0.0871152459390459
+"17Networks_LH_DorsAttnB_PostC_5","DorsAttnB","DorsAttn","Implicit",-0.0561084671161365
+"17Networks_LH_DorsAttnB_PostC_6","DorsAttnB","DorsAttn","Implicit",0.14160304684761
+"17Networks_LH_DorsAttnB_PostC_7","DorsAttnB","DorsAttn","Implicit",-0.0004731453444392
+"17Networks_LH_DorsAttnB_PostC_8","DorsAttnB","DorsAttn","Implicit",0.135886657732822
+"17Networks_LH_DorsAttnB_PostC_9","DorsAttnB","DorsAttn","Implicit",0.092817522899853
+"17Networks_LH_DorsAttnB_FEF_1","DorsAttnB","DorsAttn","Implicit",0.0555438600855216
+"17Networks_LH_DorsAttnB_FEF_2","DorsAttnB","DorsAttn","Implicit",0.123163703145591
+"17Networks_LH_DorsAttnB_FEF_3","DorsAttnB","DorsAttn","Implicit",0.00985116248918617
+"17Networks_LH_DorsAttnB_PrCv_1","DorsAttnB","DorsAttn","Implicit",0.0204665864035985
+"17Networks_LH_SalVentAttnA_ParOper_1","SalVentAttnA","VentAttn","Implicit",0.0225429162404652
+"17Networks_LH_SalVentAttnA_ParOper_2","SalVentAttnA","VentAttn","Implicit",-0.00383853985553934
+"17Networks_LH_SalVentAttnA_ParOper_3","SalVentAttnA","VentAttn","Implicit",-0.0064773851370669
+"17Networks_LH_SalVentAttnA_Ins_1","SalVentAttnA","VentAttn","Implicit",-0.00608932808968251
+"17Networks_LH_SalVentAttnA_Ins_2","SalVentAttnA","VentAttn","Implicit",-0.000551844054705346
+"17Networks_LH_SalVentAttnA_Ins_3","SalVentAttnA","VentAttn","Implicit",-0.0129576108645917
+"17Networks_LH_SalVentAttnA_Ins_4","SalVentAttnA","VentAttn","Implicit",0.00616677162146772
+"17Networks_LH_SalVentAttnA_FrOper_1","SalVentAttnA","VentAttn","Implicit",-0.000208488210064353
+"17Networks_LH_SalVentAttnA_FrOper_2","SalVentAttnA","VentAttn","Implicit",-0.00858318046766101
+"17Networks_LH_SalVentAttnA_ParMed_1","SalVentAttnA","VentAttn","Implicit",-0.00690082422722584
+"17Networks_LH_SalVentAttnA_ParMed_2","SalVentAttnA","VentAttn","Implicit",-0.00668675145837579
+"17Networks_LH_SalVentAttnA_ParMed_3","SalVentAttnA","VentAttn","Implicit",-0.00587131590467935
+"17Networks_LH_SalVentAttnA_FrMed_1","SalVentAttnA","VentAttn","Implicit",0.00149886630354506
+"17Networks_LH_SalVentAttnA_FrMed_2","SalVentAttnA","VentAttn","Implicit",0.00251085433638066
+"17Networks_LH_SalVentAttnA_FrMed_3","SalVentAttnA","VentAttn","Implicit",0.00888061439501554
+"17Networks_LH_SalVentAttnB_PFCl_1","SalVentAttnB","VentAttn","Implicit",-0.0135418217232377
+"17Networks_LH_SalVentAttnB_PFCl_2","SalVentAttnB","VentAttn","Implicit",-0.013607233994891
+"17Networks_LH_SalVentAttnB_PFCl_3","SalVentAttnB","VentAttn","Implicit",-0.0192898660476595
+"17Networks_LH_SalVentAttnB_Ins_1","SalVentAttnB","VentAttn","Implicit",-0.000510850086246419
+"17Networks_LH_SalVentAttnB_Ins_2","SalVentAttnB","VentAttn","Implicit",0.00304831622908698
+"17Networks_LH_SalVentAttnB_Ins_3","SalVentAttnB","VentAttn","Implicit",-0.00369114709114756
+"17Networks_LH_SalVentAttnB_OFC_1","SalVentAttnB","VentAttn","Implicit",-0.00815773366905884
+"17Networks_LH_SalVentAttnB_PFCmp_1","SalVentAttnB","VentAttn","Implicit",0.00346686921899254
+"17Networks_LH_LimbicB_OFC_1","LimbicB","Limbic","Implicit",-0.000148559212618382
+"17Networks_LH_LimbicB_OFC_2","LimbicB","Limbic","Implicit",0.000394511104180269
+"17Networks_LH_LimbicB_OFC_3","LimbicB","Limbic","Implicit",-0.00226571958777057
+"17Networks_LH_LimbicB_OFC_4","LimbicB","Limbic","Implicit",-8.65329100148919e-05
+"17Networks_LH_LimbicB_OFC_5","LimbicB","Limbic","Implicit",0.00133608439051967
+"17Networks_LH_LimbicA_TempPole_1","LimbicA","Limbic","Implicit",0.00101159937908739
+"17Networks_LH_LimbicA_TempPole_2","LimbicA","Limbic","Implicit",0.00223751708904513
+"17Networks_LH_LimbicA_TempPole_3","LimbicA","Limbic","Implicit",1.26802339551456e-05
+"17Networks_LH_LimbicA_TempPole_4","LimbicA","Limbic","Implicit",-1.0940491590685e-05
+"17Networks_LH_LimbicA_TempPole_5","LimbicA","Limbic","Implicit",-0.000920394257097362
+"17Networks_LH_LimbicA_TempPole_6","LimbicA","Limbic","Implicit",0.000195891918474789
+"17Networks_LH_LimbicA_TempPole_7","LimbicA","Limbic","Implicit",-0.00112379968160166
+"17Networks_LH_ContA_Temp_1","ContA","Control","Implicit",-0.00674503234484854
+"17Networks_LH_ContA_IPS_1","ContA","Control","Implicit",-0.0165968927001235
+"17Networks_LH_ContA_IPS_2","ContA","Control","Implicit",-0.0581561394516574
+"17Networks_LH_ContA_IPS_3","ContA","Control","Implicit",0.00446160208069083
+"17Networks_LH_ContA_IPS_4","ContA","Control","Implicit",-0.0408747031962421
+"17Networks_LH_ContA_IPS_5","ContA","Control","Implicit",-0.0301921532110657
+"17Networks_LH_ContA_PFCd_1","ContA","Control","Implicit",0.0273931344732731
+"17Networks_LH_ContA_PFClv_1","ContA","Control","Implicit",-0.0429083958927331
+"17Networks_LH_ContA_PFClv_2","ContA","Control","Implicit",-0.0188548801771952
+"17Networks_LH_ContA_PFCl_1","ContA","Control","Implicit",-0.0335311026140446
+"17Networks_LH_ContA_PFCl_2","ContA","Control","Implicit",-0.0228311542753223
+"17Networks_LH_ContA_PFCl_3","ContA","Control","Implicit",0.0167777196535059
+"17Networks_LH_ContA_Cingm_1","ContA","Control","Implicit",-0.00626415441937111
+"17Networks_LH_ContB_Temp_1","ContB","Control","Implicit",0.00367028391848937
+"17Networks_LH_ContB_Temp_2","ContB","Control","Implicit",0.0139864868876674
+"17Networks_LH_ContB_IPL_1","ContB","Control","Implicit",0.00281124047647272
+"17Networks_LH_ContB_IPL_2","ContB","Control","Implicit",-0.00550774845991569
+"17Networks_LH_ContB_IPL_3","ContB","Control","Implicit",-0.00862624946189936
+"17Networks_LH_ContB_PFCd_1","ContB","Control","Implicit",0.0112666555318643
+"17Networks_LH_ContB_PFClv_1","ContB","Control","Implicit",-0.00745538860248446
+"17Networks_LH_ContB_PFClv_2","ContB","Control","Implicit",-0.00362469916663686
+"17Networks_LH_ContB_PFClv_3","ContB","Control","Implicit",-0.0100077716555136
+"17Networks_LH_ContB_PFCmp_1","ContB","Control","Implicit",-0.000246070788884232
+"17Networks_LH_ContC_pCun_1","ContC","Control","Implicit",-0.0295006312402755
+"17Networks_LH_ContC_pCun_2","ContC","Control","Implicit",-0.0597810701785371
+"17Networks_LH_ContC_pCun_3","ContC","Control","Implicit",-0.0243851170380348
+"17Networks_LH_ContC_Cingp_1","ContC","Control","Implicit",-0.0699768399853044
+"17Networks_LH_ContC_Cingp_2","ContC","Control","Implicit",-0.0243498158471005
+"17Networks_LH_DefaultA_IPL_1","DefaultA","Default","Implicit",0.00959009075346656
+"17Networks_LH_DefaultA_IPL_2","DefaultA","Default","Implicit",0.00895712522274528
+"17Networks_LH_DefaultA_PFCd_1","DefaultA","Default","Implicit",0.00706194457485389
+"17Networks_LH_DefaultA_PFCd_2","DefaultA","Default","Implicit",0.00714712998543398
+"17Networks_LH_DefaultA_PFCd_3","DefaultA","Default","Implicit",0.0109305571752079
+"17Networks_LH_DefaultA_pCunPCC_1","DefaultA","Default","Implicit",0.0083113264998841
+"17Networks_LH_DefaultA_pCunPCC_2","DefaultA","Default","Implicit",0.00248197358756674
+"17Networks_LH_DefaultA_pCunPCC_3","DefaultA","Default","Implicit",0.000958440486220529
+"17Networks_LH_DefaultA_pCunPCC_4","DefaultA","Default","Implicit",0.00616036045821853
+"17Networks_LH_DefaultA_pCunPCC_5","DefaultA","Default","Implicit",-0.00351384523397858
+"17Networks_LH_DefaultA_pCunPCC_6","DefaultA","Default","Implicit",0.00393929794349392
+"17Networks_LH_DefaultA_pCunPCC_7","DefaultA","Default","Implicit",0.00242894905003777
+"17Networks_LH_DefaultA_PFCm_1","DefaultA","Default","Implicit",0.000431667222536589
+"17Networks_LH_DefaultA_PFCm_2","DefaultA","Default","Implicit",-0.00220568038451205
+"17Networks_LH_DefaultA_PFCm_3","DefaultA","Default","Implicit",0.00206292536515208
+"17Networks_LH_DefaultA_PFCm_4","DefaultA","Default","Implicit",-0.00341767656991927
+"17Networks_LH_DefaultA_PFCm_5","DefaultA","Default","Implicit",0.00857989807486113
+"17Networks_LH_DefaultA_PFCm_6","DefaultA","Default","Implicit",-0.00378127956848971
+"17Networks_LH_DefaultB_Temp_1","DefaultB","Default","Implicit",0.00448809200692341
+"17Networks_LH_DefaultB_Temp_2","DefaultB","Default","Implicit",-0.00174253985696638
+"17Networks_LH_DefaultB_Temp_3","DefaultB","Default","Implicit",0.00858263823950068
+"17Networks_LH_DefaultB_Temp_4","DefaultB","Default","Implicit",0.008237550193442
+"17Networks_LH_DefaultB_Temp_5","DefaultB","Default","Implicit",0.0111458439308576
+"17Networks_LH_DefaultB_Temp_6","DefaultB","Default","Implicit",0.00398199864897297
+"17Networks_LH_DefaultB_IPL_1","DefaultB","Default","Implicit",0.000716902952315853
+"17Networks_LH_DefaultB_IPL_2","DefaultB","Default","Implicit",-0.00668620664575385
+"17Networks_LH_DefaultB_PFCd_1","DefaultB","Default","Implicit",-0.0057415888252208
+"17Networks_LH_DefaultB_PFCd_2","DefaultB","Default","Implicit",-0.000794308806276724
+"17Networks_LH_DefaultB_PFCd_3","DefaultB","Default","Implicit",-0.00869761802526576
+"17Networks_LH_DefaultB_PFCd_4","DefaultB","Default","Implicit",0.0123864774530887
+"17Networks_LH_DefaultB_PFCd_5","DefaultB","Default","Implicit",0.00533407930017542
+"17Networks_LH_DefaultB_PFCd_6","DefaultB","Default","Implicit",0.00576694724702879
+"17Networks_LH_DefaultB_PFCl_1","DefaultB","Default","Implicit",0.00789092549547249
+"17Networks_LH_DefaultB_PFCl_2","DefaultB","Default","Implicit",0.0059592590229195
+"17Networks_LH_DefaultB_PFCv_1","DefaultB","Default","Implicit",0.000160035927946524
+"17Networks_LH_DefaultB_PFCv_2","DefaultB","Default","Implicit",0.00444637861282308
+"17Networks_LH_DefaultB_PFCv_3","DefaultB","Default","Implicit",0.00239566433715735
+"17Networks_LH_DefaultB_PFCv_4","DefaultB","Default","Implicit",-0.00720770186055186
+"17Networks_LH_DefaultB_PFCv_5","DefaultB","Default","Implicit",-0.0135152001253174
+"17Networks_LH_DefaultC_IPL_1","DefaultC","Default","Implicit",0.00136446634215754
+"17Networks_LH_DefaultC_Rsp_1","DefaultC","Default","Implicit",-0.000568216689762872
+"17Networks_LH_DefaultC_Rsp_2","DefaultC","Default","Implicit",0.00195758032722182
+"17Networks_LH_DefaultC_Rsp_3","DefaultC","Default","Implicit",-0.000976059141866087
+"17Networks_LH_DefaultC_PHC_1","DefaultC","Default","Implicit",0.00200539320545247
+"17Networks_LH_DefaultC_PHC_2","DefaultC","Default","Implicit",-0.000588272790783148
+"17Networks_LH_DefaultC_PHC_3","DefaultC","Default","Implicit",0.00192829505725285
+"17Networks_LH_TempPar_1","TempPar","TempPar","Implicit",-4.39728430820027e-05
+"17Networks_LH_TempPar_2","TempPar","TempPar","Implicit",-6.04308216269623e-05
+"17Networks_LH_TempPar_3","TempPar","TempPar","Implicit",2.61462123902924e-05
+"17Networks_LH_TempPar_4","TempPar","TempPar","Implicit",2.83067839027788e-06
+"17Networks_LH_TempPar_5","TempPar","TempPar","Implicit",4.23100199885996e-05
+"17Networks_LH_TempPar_6","TempPar","TempPar","Implicit",1.67846774028263e-06
+"17Networks_RH_VisCent_ExStr_1","VisCent","Visual","Implicit",0.000327194199717994
+"17Networks_RH_VisCent_ExStr_2","VisCent","Visual","Implicit",0.000626761032704071
+"17Networks_RH_VisCent_ExStr_3","VisCent","Visual","Implicit",-0.00018314445098326
+"17Networks_RH_VisCent_ExStr_4","VisCent","Visual","Implicit",2.10656505705303e-05
+"17Networks_RH_VisCent_ExStr_5","VisCent","Visual","Implicit",-0.000492062863364628
+"17Networks_RH_VisCent_ExStr_6","VisCent","Visual","Implicit",-0.000216422368911773
+"17Networks_RH_VisCent_Striate_1","VisCent","Visual","Implicit",-0.00024106824000317
+"17Networks_RH_VisCent_ExStr_7","VisCent","Visual","Implicit",-0.00080202671883846
+"17Networks_RH_VisCent_ExStr_8","VisCent","Visual","Implicit",-0.000607684677336255
+"17Networks_RH_VisCent_ExStr_9","VisCent","Visual","Implicit",-0.000204681738836816
+"17Networks_RH_VisCent_ExStr_10","VisCent","Visual","Implicit",-0.000460620254324095
+"17Networks_RH_VisCent_ExStr_11","VisCent","Visual","Implicit",-0.000495072816805837
+"17Networks_RH_VisPeri_ExStrInf_1","VisPeri","Visual","Implicit",0.000227179776768475
+"17Networks_RH_VisPeri_ExStrInf_2","VisPeri","Visual","Implicit",0.000252426501356681
+"17Networks_RH_VisPeri_ExStrInf_3","VisPeri","Visual","Implicit",-6.63910016902435e-05
+"17Networks_RH_VisPeri_ExStrInf_4","VisPeri","Visual","Implicit",3.82594988495453e-05
+"17Networks_RH_VisPeri_ExStrInf_5","VisPeri","Visual","Implicit",-0.000118740908086031
+"17Networks_RH_VisPeri_StriCal_1","VisPeri","Visual","Implicit",1.50237292909862e-05
+"17Networks_RH_VisPeri_StriCal_2","VisPeri","Visual","Implicit",-0.000159191523815236
+"17Networks_RH_VisPeri_ExStrSup_1","VisPeri","Visual","Implicit",-6.585555755847e-05
+"17Networks_RH_VisPeri_ExStrSup_2","VisPeri","Visual","Implicit",-0.000306906827748426
+"17Networks_RH_VisPeri_ExStrSup_3","VisPeri","Visual","Implicit",-7.85032873861657e-05
+"17Networks_RH_VisPeri_ExStrSup_4","VisPeri","Visual","Implicit",-0.000146701238555029
+"17Networks_RH_DorsAttnA_TempOcc_1","DorsAttnA","DorsAttn","Implicit",0.0338157668215905
+"17Networks_RH_DorsAttnA_TempOcc_2","DorsAttnA","DorsAttn","Implicit",0.00873594628138894
+"17Networks_RH_DorsAttnA_TempOcc_3","DorsAttnA","DorsAttn","Implicit",0.000374915529646603
+"17Networks_RH_DorsAttnA_ParOcc_1","DorsAttnA","DorsAttn","Implicit",0.00838512743132347
+"17Networks_RH_DorsAttnA_ParOcc_2","DorsAttnA","DorsAttn","Implicit",0.0106262494541973
+"17Networks_RH_DorsAttnA_ParOcc_3","DorsAttnA","DorsAttn","Implicit",-0.00649019854519856
+"17Networks_RH_DorsAttnA_SPL_1","DorsAttnA","DorsAttn","Implicit",-0.0256163001800188
+"17Networks_RH_DorsAttnA_SPL_2","DorsAttnA","DorsAttn","Implicit",-0.00786172164486679
+"17Networks_RH_DorsAttnA_SPL_3","DorsAttnA","DorsAttn","Implicit",-0.0313767950380403
+"17Networks_RH_DorsAttnA_SPL_4","DorsAttnA","DorsAttn","Implicit",-0.0216464389708095
+"17Networks_RH_DorsAttnA_SPL_5","DorsAttnA","DorsAttn","Implicit",-0.0170441546424114
+"17Networks_RH_DorsAttnA_SPL_6","DorsAttnA","DorsAttn","Implicit",0.00177624394382467
+"17Networks_RH_DorsAttnA_SPL_7","DorsAttnA","DorsAttn","Implicit",-0.00367172653617412
+"17Networks_RH_DorsAttnA_SPL_8","DorsAttnA","DorsAttn","Implicit",0.00305606602142183
+"17Networks_RH_DorsAttnB_TempOcc_1","DorsAttnB","DorsAttn","Implicit",0.0305887026942515
+"17Networks_RH_DorsAttnB_PostC_1","DorsAttnB","DorsAttn","Implicit",0.0118951358725835
+"17Networks_RH_DorsAttnB_PostC_2","DorsAttnB","DorsAttn","Implicit",-0.0327912538113044
+"17Networks_RH_DorsAttnB_PostC_3","DorsAttnB","DorsAttn","Implicit",-0.0630417576690906
+"17Networks_RH_DorsAttnB_PostC_4","DorsAttnB","DorsAttn","Implicit",0.04226883137905
+"17Networks_RH_DorsAttnB_PostC_5","DorsAttnB","DorsAttn","Implicit",0.126941338862668
+"17Networks_RH_DorsAttnB_PostC_6","DorsAttnB","DorsAttn","Implicit",-0.0433325955108877
+"17Networks_RH_DorsAttnB_PostC_7","DorsAttnB","DorsAttn","Implicit",0.24179712729478
+"17Networks_RH_DorsAttnB_PostC_8","DorsAttnB","DorsAttn","Implicit",-0.116958794228747
+"17Networks_RH_DorsAttnB_FEF_1","DorsAttnB","DorsAttn","Implicit",0.0899520505016543
+"17Networks_RH_DorsAttnB_FEF_2","DorsAttnB","DorsAttn","Implicit",0.0834507398041001
+"17Networks_RH_DorsAttnB_FEF_3","DorsAttnB","DorsAttn","Implicit",0.0254821127420408
+"17Networks_RH_SalVentAttnA_ParOper_1","SalVentAttnA","VentAttn","Implicit",0.0123872046115047
+"17Networks_RH_SalVentAttnA_ParOper_2","SalVentAttnA","VentAttn","Implicit",0.00720900581234831
+"17Networks_RH_SalVentAttnA_ParOper_3","SalVentAttnA","VentAttn","Implicit",0.00212280986776018
+"17Networks_RH_SalVentAttnA_PrC_1","SalVentAttnA","VentAttn","Implicit",0.000592799653161343
+"17Networks_RH_SalVentAttnA_Ins_1","SalVentAttnA","VentAttn","Implicit",0.00584213824393913
+"17Networks_RH_SalVentAttnA_Ins_2","SalVentAttnA","VentAttn","Implicit",0.00141322419384292
+"17Networks_RH_SalVentAttnA_Ins_3","SalVentAttnA","VentAttn","Implicit",-0.000288350654655387
+"17Networks_RH_SalVentAttnA_Ins_4","SalVentAttnA","VentAttn","Implicit",-0.0147082328476874
+"17Networks_RH_SalVentAttnA_FrOper_1","SalVentAttnA","VentAttn","Implicit",0.00944972442318515
+"17Networks_RH_SalVentAttnA_FrOper_2","SalVentAttnA","VentAttn","Implicit",0.00361238255720034
+"17Networks_RH_SalVentAttnA_FrOper_3","SalVentAttnA","VentAttn","Implicit",0.0103460633121934
+"17Networks_RH_SalVentAttnA_FrMed_1","SalVentAttnA","VentAttn","Implicit",0.00754918071467265
+"17Networks_RH_SalVentAttnA_ParMed_1","SalVentAttnA","VentAttn","Implicit",-0.0099554190014585
+"17Networks_RH_SalVentAttnA_ParMed_2","SalVentAttnA","VentAttn","Implicit",0.00735193642857406
+"17Networks_RH_SalVentAttnA_FrMed_2","SalVentAttnA","VentAttn","Implicit",-0.00829199901420741
+"17Networks_RH_SalVentAttnA_ParMed_3","SalVentAttnA","VentAttn","Implicit",-0.00588768388459392
+"17Networks_RH_SalVentAttnA_ParMed_4","SalVentAttnA","VentAttn","Implicit",0.00622564731151147
+"17Networks_RH_SalVentAttnA_FrMed_3","SalVentAttnA","VentAttn","Implicit",0.00653880782523546
+"17Networks_RH_SalVentAttnA_FrMed_4","SalVentAttnA","VentAttn","Implicit",-0.00615241084631799
+"17Networks_RH_SalVentAttnB_IPL_1","SalVentAttnB","VentAttn","Implicit",-0.00881462833003718
+"17Networks_RH_SalVentAttnB_PFClv_1","SalVentAttnB","VentAttn","Implicit",-0.0146384800939708
+"17Networks_RH_SalVentAttnB_PFCl_1","SalVentAttnB","VentAttn","Implicit",-0.0137317242726301
+"17Networks_RH_SalVentAttnB_PFCl_2","SalVentAttnB","VentAttn","Implicit",-0.0200511460425921
+"17Networks_RH_SalVentAttnB_PFCl_3","SalVentAttnB","VentAttn","Implicit",-0.0284093417448802
+"17Networks_RH_SalVentAttnB_Ins_1","SalVentAttnB","VentAttn","Implicit",0.0202134938196383
+"17Networks_RH_SalVentAttnB_Ins_2","SalVentAttnB","VentAttn","Implicit",0.00392158224165506
+"17Networks_RH_SalVentAttnB_PFCmp_1","SalVentAttnB","VentAttn","Implicit",-0.0270263615397309
+"17Networks_RH_SalVentAttnB_PFCmp_2","SalVentAttnB","VentAttn","Implicit",-0.0070844737281333
+"17Networks_RH_LimbicB_OFC_1","LimbicB","Limbic","Implicit",3.30661467735319e-05
+"17Networks_RH_LimbicB_OFC_2","LimbicB","Limbic","Implicit",0.000972746660386786
+"17Networks_RH_LimbicB_OFC_3","LimbicB","Limbic","Implicit",-0.000962482202700073
+"17Networks_RH_LimbicB_OFC_4","LimbicB","Limbic","Implicit",-0.000475989312920156
+"17Networks_RH_LimbicB_OFC_5","LimbicB","Limbic","Implicit",-0.000486655351306346
+"17Networks_RH_LimbicB_OFC_6","LimbicB","Limbic","Implicit",0.000177391761536291
+"17Networks_RH_LimbicA_TempPole_1","LimbicA","Limbic","Implicit",-0.000532562199042101
+"17Networks_RH_LimbicA_TempPole_2","LimbicA","Limbic","Implicit",-0.00229173858214797
+"17Networks_RH_LimbicA_TempPole_3","LimbicA","Limbic","Implicit",0.000178994029584916
+"17Networks_RH_LimbicA_TempPole_4","LimbicA","Limbic","Implicit",-0.000845116022039816
+"17Networks_RH_LimbicA_TempPole_5","LimbicA","Limbic","Implicit",-0.000797837093642605
+"17Networks_RH_LimbicA_TempPole_6","LimbicA","Limbic","Implicit",-0.00101074293665062
+"17Networks_RH_ContA_IPS_1","ContA","Control","Implicit",-0.0314766225610239
+"17Networks_RH_ContA_IPS_2","ContA","Control","Implicit",-0.0325440923710168
+"17Networks_RH_ContA_IPS_3","ContA","Control","Implicit",-0.0344222087994994
+"17Networks_RH_ContA_IPS_4","ContA","Control","Implicit",-0.0033713985033942
+"17Networks_RH_ContA_PFCd_1","ContA","Control","Implicit",0.00706940856399626
+"17Networks_RH_ContA_PFCl_1","ContA","Control","Implicit",-0.0272721225859953
+"17Networks_RH_ContA_PFCl_2","ContA","Control","Implicit",-0.0181699835726836
+"17Networks_RH_ContA_PFCl_3","ContA","Control","Implicit",-0.0191095117678137
+"17Networks_RH_ContA_PFCl_4","ContA","Control","Implicit",0.00930824112993524
+"17Networks_RH_ContA_PFCl_5","ContA","Control","Implicit",-0.0383276833975276
+"17Networks_RH_ContA_Cingm_1","ContA","Control","Implicit",0.0257104664717735
+"17Networks_RH_ContB_Temp_1","ContB","Control","Implicit",0.00645101535332567
+"17Networks_RH_ContB_Temp_2","ContB","Control","Implicit",-0.0025627633974175
+"17Networks_RH_ContB_IPL_1","ContB","Control","Implicit",-0.00297828842749191
+"17Networks_RH_ContB_IPL_2","ContB","Control","Implicit",-0.00697469707837099
+"17Networks_RH_ContB_IPL_3","ContB","Control","Implicit",-0.00616272409710323
+"17Networks_RH_ContB_IPL_4","ContB","Control","Implicit",0.000337137767241236
+"17Networks_RH_ContB_PFCld_1","ContB","Control","Implicit",-0.00891474361850818
+"17Networks_RH_ContB_PFCld_2","ContB","Control","Implicit",-0.00604960318801712
+"17Networks_RH_ContB_PFCld_3","ContB","Control","Implicit",-0.00355909059043211
+"17Networks_RH_ContB_PFCld_4","ContB","Control","Implicit",-3.24846086630015e-05
+"17Networks_RH_ContB_PFClv_1","ContB","Control","Implicit",-0.00145209581361055
+"17Networks_RH_ContB_PFClv_2","ContB","Control","Implicit",-0.00515430321368291
+"17Networks_RH_ContB_PFClv_3","ContB","Control","Implicit",-0.00986329738666834
+"17Networks_RH_ContB_PFClv_4","ContB","Control","Implicit",-0.0046063624034607
+"17Networks_RH_ContB_PFCmp_1","ContB","Control","Implicit",-0.00594714064171448
+"17Networks_RH_ContC_pCun_1","ContC","Control","Implicit",-0.0485976230115372
+"17Networks_RH_ContC_pCun_2","ContC","Control","Implicit",-0.031119287349954
+"17Networks_RH_ContC_pCun_3","ContC","Control","Implicit",-0.0323577716211338
+"17Networks_RH_ContC_pCun_4","ContC","Control","Implicit",0.0469011868528103
+"17Networks_RH_ContC_pCun_5","ContC","Control","Implicit",-0.0688101465720895
+"17Networks_RH_ContC_Cingp_1","ContC","Control","Implicit",0.00674413690475117
+"17Networks_RH_ContC_Cingp_2","ContC","Control","Implicit",-0.012950618269783
+"17Networks_RH_DefaultA_Temp_1","DefaultA","Default","Implicit",-0.00102588228048259
+"17Networks_RH_DefaultA_IPL_1","DefaultA","Default","Implicit",0.00341744444733847
+"17Networks_RH_DefaultA_IPL_2","DefaultA","Default","Implicit",-0.00204817631232762
+"17Networks_RH_DefaultA_PFCd_1","DefaultA","Default","Implicit",-0.00232656242874305
+"17Networks_RH_DefaultA_PFCd_2","DefaultA","Default","Implicit",0.000432658429009203
+"17Networks_RH_DefaultA_pCunPCC_1","DefaultA","Default","Implicit",0.00598595972749531
+"17Networks_RH_DefaultA_pCunPCC_2","DefaultA","Default","Implicit",-0.00334517762242829
+"17Networks_RH_DefaultA_pCunPCC_3","DefaultA","Default","Implicit",0.00460980634857527
+"17Networks_RH_DefaultA_pCunPCC_4","DefaultA","Default","Implicit",-0.00266467783259423
+"17Networks_RH_DefaultA_pCunPCC_5","DefaultA","Default","Implicit",-0.00384432154743661
+"17Networks_RH_DefaultA_PFCm_1","DefaultA","Default","Implicit",-0.00573145007394355
+"17Networks_RH_DefaultA_PFCm_2","DefaultA","Default","Implicit",-0.00579041688044315
+"17Networks_RH_DefaultA_PFCm_3","DefaultA","Default","Implicit",-0.00461650329184737
+"17Networks_RH_DefaultA_PFCm_4","DefaultA","Default","Implicit",-0.00557972925838683
+"17Networks_RH_DefaultA_PFCm_5","DefaultA","Default","Implicit",-0.00477092245085972
+"17Networks_RH_DefaultA_PFCm_6","DefaultA","Default","Implicit",0.00129729221872498
+"17Networks_RH_DefaultB_Temp_1","DefaultB","Default","Implicit",-0.00716887926743375
+"17Networks_RH_DefaultB_Temp_2","DefaultB","Default","Implicit",-0.0173507174797384
+"17Networks_RH_DefaultB_AntTemp_1","DefaultB","Default","Implicit",-0.00138581090984933
+"17Networks_RH_DefaultB_PFCd_1","DefaultB","Default","Implicit",-0.00965095461076796
+"17Networks_RH_DefaultB_PFCd_2","DefaultB","Default","Implicit",-0.0103240655040268
+"17Networks_RH_DefaultB_PFCd_3","DefaultB","Default","Implicit",-0.00839664560259268
+"17Networks_RH_DefaultB_PFCd_4","DefaultB","Default","Implicit",-0.00268606949719384
+"17Networks_RH_DefaultB_PFCd_5","DefaultB","Default","Implicit",-0.00168999189936606
+"17Networks_RH_DefaultB_PFCv_1","DefaultB","Default","Implicit",-0.00220223671227065
+"17Networks_RH_DefaultB_PFCv_2","DefaultB","Default","Implicit",-0.00485947443542402
+"17Networks_RH_DefaultB_PFCv_3","DefaultB","Default","Implicit",-0.0100127917782043
+"17Networks_RH_DefaultC_IPL_1","DefaultC","Default","Implicit",0.00154867997306364
+"17Networks_RH_DefaultC_IPL_2","DefaultC","Default","Implicit",0.00053158870503644
+"17Networks_RH_DefaultC_Rsp_1","DefaultC","Default","Implicit",-0.000902807364337089
+"17Networks_RH_DefaultC_Rsp_2","DefaultC","Default","Implicit",5.29732787816305e-05
+"17Networks_RH_DefaultC_PHC_1","DefaultC","Default","Implicit",-0.00398594201927012
+"17Networks_RH_DefaultC_PHC_2","DefaultC","Default","Implicit",-0.001723731207371
+"17Networks_RH_TempPar_1","TempPar","TempPar","Implicit",1.47868140373181e-05
+"17Networks_RH_TempPar_2","TempPar","TempPar","Implicit",-2.38962895588527e-05
+"17Networks_RH_TempPar_3","TempPar","TempPar","Implicit",-4.25020252791189e-05
+"17Networks_RH_TempPar_4","TempPar","TempPar","Implicit",7.29326973577804e-06
+"17Networks_RH_TempPar_5","TempPar","TempPar","Implicit",-4.71391841019065e-05
+"17Networks_RH_TempPar_6","TempPar","TempPar","Implicit",2.86264707046835e-05
+"17Networks_RH_TempPar_7","TempPar","TempPar","Implicit",1.14064025338093e-05
+"17Networks_RH_TempPar_8","TempPar","TempPar","Implicit",-6.85285747147743e-06
+"17Networks_RH_TempPar_9","TempPar","TempPar","Implicit",1.51670834517448e-05
+"17Networks_RH_TempPar_10","TempPar","TempPar","Implicit",1.10923803316776e-05
+"Left Caudate","Subcortex","Subcortex","Implicit",-3.90861210280093e-13
+"Left Putamen","Subcortex","Subcortex","Implicit",3.5509852975404e-12
+"Left Pallidum","Subcortex","Subcortex","Implicit",-1.53240908127209e-13
+"Left Accumbens","Subcortex","Subcortex","Implicit",1.75715888987111e-12
+"Right Caudate","Subcortex","Subcortex","Implicit",-1.53646560649441e-12
+"Right Putamen","Subcortex","Subcortex","Implicit",2.69602727310962e-12
+"Right Pallidum","Subcortex","Subcortex","Implicit",3.60656949716882e-12
+"Right Accumbens","Subcortex","Subcortex","Implicit",-5.26331368914057e-12
+"Left I-IV","Cerebellum","Cerebellum","Implicit",-9.05400940910753e-06
+"Right I-IV","Cerebellum","Cerebellum","Implicit",2.27252712587958e-05
+"Left V","Cerebellum","Cerebellum","Implicit",2.0777383534922e-05
+"Right V","Cerebellum","Cerebellum","Implicit",3.05382960894341e-05
+"Left VI","Cerebellum","Cerebellum","Implicit",-1.77667129472277e-05
+"Vermis VI","Cerebellum","Cerebellum","Implicit",-3.40694377362531e-05
+"Right VI","Cerebellum","Cerebellum","Implicit",-2.65237903087031e-05
+"Left Crus I","Cerebellum","Cerebellum","Implicit",-2.7448895116323e-05
+"Vermis Crus I","Cerebellum","Cerebellum","Implicit",-5.40802645942705e-05
+"Right Crus I","Cerebellum","Cerebellum","Implicit",1.70063182109282e-05
+"Left Crus II","Cerebellum","Cerebellum","Implicit",-1.60625576465083e-06
+"Vermis Crus II","Cerebellum","Cerebellum","Implicit",-6.22456313030984e-05
+"Right Crus II","Cerebellum","Cerebellum","Implicit",1.00051828306187e-05
+"Left VIIb","Cerebellum","Cerebellum","Implicit",-4.81109238819537e-05
+"Vermis VIIb","Cerebellum","Cerebellum","Implicit",6.33174661749557e-06
+"Right VIIb","Cerebellum","Cerebellum","Implicit",3.80573204517533e-05
+"Left VIIIa","Cerebellum","Cerebellum","Implicit",-4.04168345973224e-05
+"Vermis VIIIa","Cerebellum","Cerebellum","Implicit",-2.01443778408476e-06
+"Right VIIIa","Cerebellum","Cerebellum","Implicit",3.50009097420647e-06
+"Left VIIIb","Cerebellum","Cerebellum","Implicit",-1.02267048161752e-05
+"Vermis VIIIb","Cerebellum","Cerebellum","Implicit",-4.40788957529013e-06
+"Right VIIIb","Cerebellum","Cerebellum","Implicit",-1.51361707014931e-05
+"Left IX","Cerebellum","Cerebellum","Implicit",-1.80076817304498e-05
+"Vermis IX","Cerebellum","Cerebellum","Implicit",3.39422370023724e-05
+"Right IX","Cerebellum","Cerebellum","Implicit",2.33176614279414e-05
+"Left X","Cerebellum","Cerebellum","Implicit",4.62119225163938e-05
+"Vermis X","Cerebellum","Cerebellum","Implicit",4.11739658594462e-05
+"Right X","Cerebellum","Cerebellum","Implicit",-9.99990100955933e-06
+"17Networks_LH_VisCent_ExStr_1","VisCent","Visual","Explicit",-0.0159824179684682
+"17Networks_LH_VisCent_ExStr_2","VisCent","Visual","Explicit",-0.0208467789313889
+"17Networks_LH_VisCent_ExStr_3","VisCent","Visual","Explicit",-0.0348432176087925
+"17Networks_LH_VisCent_ExStr_4","VisCent","Visual","Explicit",0.0370235355028103
+"17Networks_LH_VisCent_ExStr_5","VisCent","Visual","Explicit",0.0474329602050406
+"17Networks_LH_VisCent_ExStr_6","VisCent","Visual","Explicit",0.0248208997362654
+"17Networks_LH_VisCent_Striate_1","VisCent","Visual","Explicit",0.0442737408736072
+"17Networks_LH_VisCent_ExStr_7","VisCent","Visual","Explicit",0.0241766511780364
+"17Networks_LH_VisCent_ExStr_8","VisCent","Visual","Explicit",0.0347264234394021
+"17Networks_LH_VisCent_ExStr_9","VisCent","Visual","Explicit",0.0393869478013425
+"17Networks_LH_VisCent_ExStr_10","VisCent","Visual","Explicit",0.0178199154676188
+"17Networks_LH_VisCent_ExStr_11","VisCent","Visual","Explicit",0.00693931508411687
+"17Networks_LH_VisPeri_ExStrInf_1","VisPeri","Visual","Explicit",0.00419446389007835
+"17Networks_LH_VisPeri_ExStrInf_2","VisPeri","Visual","Explicit",-0.00122959455642087
+"17Networks_LH_VisPeri_ExStrInf_3","VisPeri","Visual","Explicit",-0.0031395454471053
+"17Networks_LH_VisPeri_ExStrInf_4","VisPeri","Visual","Explicit",-0.00433218888432177
+"17Networks_LH_VisPeri_ExStrInf_5","VisPeri","Visual","Explicit",0.00239538603197501
+"17Networks_LH_VisPeri_StriCal_1","VisPeri","Visual","Explicit",0.00146687509751627
+"17Networks_LH_VisPeri_StriCal_2","VisPeri","Visual","Explicit",0.0040870070188955
+"17Networks_LH_VisPeri_ExStrSup_1","VisPeri","Visual","Explicit",0.00267776311210925
+"17Networks_LH_VisPeri_ExStrSup_2","VisPeri","Visual","Explicit",-0.000320483393625246
+"17Networks_LH_VisPeri_ExStrSup_3","VisPeri","Visual","Explicit",0.0019140600984152
+"17Networks_LH_VisPeri_ExStrSup_4","VisPeri","Visual","Explicit",0.00247997605991482
+"17Networks_LH_VisPeri_ExStrSup_5","VisPeri","Visual","Explicit",0.00233892946419455
+"17Networks_LH_DorsAttnA_TempOcc_1","DorsAttnA","DorsAttn","Explicit",0.0195605529396946
+"17Networks_LH_DorsAttnA_TempOcc_2","DorsAttnA","DorsAttn","Explicit",0.0267974353936195
+"17Networks_LH_DorsAttnA_TempOcc_3","DorsAttnA","DorsAttn","Explicit",0.0176791952143108
+"17Networks_LH_DorsAttnA_TempOcc_4","DorsAttnA","DorsAttn","Explicit",0.0103709749026481
+"17Networks_LH_DorsAttnA_ParOcc_1","DorsAttnA","DorsAttn","Explicit",0.024793209800765
+"17Networks_LH_DorsAttnA_ParOcc_2","DorsAttnA","DorsAttn","Explicit",0.0191655863906258
+"17Networks_LH_DorsAttnA_SPL_1","DorsAttnA","DorsAttn","Explicit",0.0198802214015124
+"17Networks_LH_DorsAttnA_SPL_2","DorsAttnA","DorsAttn","Explicit",0.0133378532530722
+"17Networks_LH_DorsAttnA_SPL_3","DorsAttnA","DorsAttn","Explicit",0.0154867963073003
+"17Networks_LH_DorsAttnA_SPL_4","DorsAttnA","DorsAttn","Explicit",0.0176539004883327
+"17Networks_LH_DorsAttnA_SPL_5","DorsAttnA","DorsAttn","Explicit",-0.0212222911578835
+"17Networks_LH_DorsAttnA_SPL_6","DorsAttnA","DorsAttn","Explicit",0.00206987363198853
+"17Networks_LH_DorsAttnA_SPL_7","DorsAttnA","DorsAttn","Explicit",0.00962326924611915
+"17Networks_LH_DorsAttnB_PostC_1","DorsAttnB","DorsAttn","Explicit",0.00412046843298968
+"17Networks_LH_DorsAttnB_PostC_2","DorsAttnB","DorsAttn","Explicit",-0.000309967905208252
+"17Networks_LH_DorsAttnB_PostC_3","DorsAttnB","DorsAttn","Explicit",0.00551027167109577
+"17Networks_LH_DorsAttnB_PostC_4","DorsAttnB","DorsAttn","Explicit",-0.00726223064454083
+"17Networks_LH_DorsAttnB_PostC_5","DorsAttnB","DorsAttn","Explicit",-0.0055921784119473
+"17Networks_LH_DorsAttnB_PostC_6","DorsAttnB","DorsAttn","Explicit",-0.00931458738487215
+"17Networks_LH_DorsAttnB_PostC_7","DorsAttnB","DorsAttn","Explicit",-0.00698707434304308
+"17Networks_LH_DorsAttnB_PostC_8","DorsAttnB","DorsAttn","Explicit",-0.0120347043282264
+"17Networks_LH_DorsAttnB_PostC_9","DorsAttnB","DorsAttn","Explicit",-0.00386239228788312
+"17Networks_LH_DorsAttnB_FEF_1","DorsAttnB","DorsAttn","Explicit",-0.0105253863414999
+"17Networks_LH_DorsAttnB_FEF_2","DorsAttnB","DorsAttn","Explicit",-0.0066381482325935
+"17Networks_LH_DorsAttnB_FEF_3","DorsAttnB","DorsAttn","Explicit",-0.00870939775857744
+"17Networks_LH_DorsAttnB_PrCv_1","DorsAttnB","DorsAttn","Explicit",-0.00378570466799664
+"17Networks_LH_SalVentAttnA_ParOper_1","SalVentAttnA","VentAttn","Explicit",-0.0469198528683333
+"17Networks_LH_SalVentAttnA_ParOper_2","SalVentAttnA","VentAttn","Explicit",0.0073357427203195
+"17Networks_LH_SalVentAttnA_ParOper_3","SalVentAttnA","VentAttn","Explicit",0.0198438987963187
+"17Networks_LH_SalVentAttnA_Ins_1","SalVentAttnA","VentAttn","Explicit",0.0239745571287115
+"17Networks_LH_SalVentAttnA_Ins_2","SalVentAttnA","VentAttn","Explicit",0.0386595656004247
+"17Networks_LH_SalVentAttnA_Ins_3","SalVentAttnA","VentAttn","Explicit",0.0291105134690192
+"17Networks_LH_SalVentAttnA_Ins_4","SalVentAttnA","VentAttn","Explicit",0.00843224500245223
+"17Networks_LH_SalVentAttnA_FrOper_1","SalVentAttnA","VentAttn","Explicit",-0.0145991192176224
+"17Networks_LH_SalVentAttnA_FrOper_2","SalVentAttnA","VentAttn","Explicit",0.0395857822933833
+"17Networks_LH_SalVentAttnA_ParMed_1","SalVentAttnA","VentAttn","Explicit",0.00972684125109432
+"17Networks_LH_SalVentAttnA_ParMed_2","SalVentAttnA","VentAttn","Explicit",-0.00411728943614911
+"17Networks_LH_SalVentAttnA_ParMed_3","SalVentAttnA","VentAttn","Explicit",0.031839185124867
+"17Networks_LH_SalVentAttnA_FrMed_1","SalVentAttnA","VentAttn","Explicit",0.000120536702913801
+"17Networks_LH_SalVentAttnA_FrMed_2","SalVentAttnA","VentAttn","Explicit",0.00370127181818151
+"17Networks_LH_SalVentAttnA_FrMed_3","SalVentAttnA","VentAttn","Explicit",-0.00702619122083101
+"17Networks_LH_SalVentAttnB_PFCl_1","SalVentAttnB","VentAttn","Explicit",0.00279069089156526
+"17Networks_LH_SalVentAttnB_PFCl_2","SalVentAttnB","VentAttn","Explicit",-0.000385792388059708
+"17Networks_LH_SalVentAttnB_PFCl_3","SalVentAttnB","VentAttn","Explicit",0.000823952707994907
+"17Networks_LH_SalVentAttnB_Ins_1","SalVentAttnB","VentAttn","Explicit",0.000492946561704845
+"17Networks_LH_SalVentAttnB_Ins_2","SalVentAttnB","VentAttn","Explicit",0.00159689408842359
+"17Networks_LH_SalVentAttnB_Ins_3","SalVentAttnB","VentAttn","Explicit",0.00282141678876036
+"17Networks_LH_SalVentAttnB_OFC_1","SalVentAttnB","VentAttn","Explicit",-0.000272798570474136
+"17Networks_LH_SalVentAttnB_PFCmp_1","SalVentAttnB","VentAttn","Explicit",-6.38378376319375e-05
+"17Networks_LH_LimbicB_OFC_1","LimbicB","Limbic","Explicit",0.000313816883817688
+"17Networks_LH_LimbicB_OFC_2","LimbicB","Limbic","Explicit",0.00100822344937008
+"17Networks_LH_LimbicB_OFC_3","LimbicB","Limbic","Explicit",0.000918161692570218
+"17Networks_LH_LimbicB_OFC_4","LimbicB","Limbic","Explicit",-0.000801621998594873
+"17Networks_LH_LimbicB_OFC_5","LimbicB","Limbic","Explicit",-0.00228154517208029
+"17Networks_LH_LimbicA_TempPole_1","LimbicA","Limbic","Explicit",-0.00221160725727373
+"17Networks_LH_LimbicA_TempPole_2","LimbicA","Limbic","Explicit",-0.00240697652478228
+"17Networks_LH_LimbicA_TempPole_3","LimbicA","Limbic","Explicit",-0.000275038531883356
+"17Networks_LH_LimbicA_TempPole_4","LimbicA","Limbic","Explicit",0.00114270984374567
+"17Networks_LH_LimbicA_TempPole_5","LimbicA","Limbic","Explicit",-6.26573035901205e-05
+"17Networks_LH_LimbicA_TempPole_6","LimbicA","Limbic","Explicit",0.000543173652869249
+"17Networks_LH_LimbicA_TempPole_7","LimbicA","Limbic","Explicit",0.00220494683049163
+"17Networks_LH_ContA_Temp_1","ContA","Control","Explicit",0.00148381709895806
+"17Networks_LH_ContA_IPS_1","ContA","Control","Explicit",0.00868326048407369
+"17Networks_LH_ContA_IPS_2","ContA","Control","Explicit",0.0123905612017829
+"17Networks_LH_ContA_IPS_3","ContA","Control","Explicit",0.00333359713039127
+"17Networks_LH_ContA_IPS_4","ContA","Control","Explicit",0.0042051018241451
+"17Networks_LH_ContA_IPS_5","ContA","Control","Explicit",0.0124649210494103
+"17Networks_LH_ContA_PFCd_1","ContA","Control","Explicit",0.00314802596680076
+"17Networks_LH_ContA_PFClv_1","ContA","Control","Explicit",0.0081373566391744
+"17Networks_LH_ContA_PFClv_2","ContA","Control","Explicit",0.000456280633179172
+"17Networks_LH_ContA_PFCl_1","ContA","Control","Explicit",-0.00127116655605223
+"17Networks_LH_ContA_PFCl_2","ContA","Control","Explicit",-0.00455309275415671
+"17Networks_LH_ContA_PFCl_3","ContA","Control","Explicit",-0.00985034974584394
+"17Networks_LH_ContA_Cingm_1","ContA","Control","Explicit",-0.0143431312185967
+"17Networks_LH_ContB_Temp_1","ContB","Control","Explicit",-0.00112528427202811
+"17Networks_LH_ContB_Temp_2","ContB","Control","Explicit",-0.000653650368053778
+"17Networks_LH_ContB_IPL_1","ContB","Control","Explicit",0.000999112804124954
+"17Networks_LH_ContB_IPL_2","ContB","Control","Explicit",0.00123422852855119
+"17Networks_LH_ContB_IPL_3","ContB","Control","Explicit",0.000996173691225707
+"17Networks_LH_ContB_PFCd_1","ContB","Control","Explicit",5.44666881191962e-06
+"17Networks_LH_ContB_PFClv_1","ContB","Control","Explicit",0.000951829435044827
+"17Networks_LH_ContB_PFClv_2","ContB","Control","Explicit",0.000366597465680302
+"17Networks_LH_ContB_PFClv_3","ContB","Control","Explicit",-0.000377629867141781
+"17Networks_LH_ContB_PFCmp_1","ContB","Control","Explicit",0.00125875928122095
+"17Networks_LH_ContC_pCun_1","ContC","Control","Explicit",0.0258078779345209
+"17Networks_LH_ContC_pCun_2","ContC","Control","Explicit",0.0352406362182865
+"17Networks_LH_ContC_pCun_3","ContC","Control","Explicit",0.0103303477517251
+"17Networks_LH_ContC_Cingp_1","ContC","Control","Explicit",0.0221583646150069
+"17Networks_LH_ContC_Cingp_2","ContC","Control","Explicit",0.0245343725998545
+"17Networks_LH_DefaultA_IPL_1","DefaultA","Default","Explicit",-7.36148566764719e-05
+"17Networks_LH_DefaultA_IPL_2","DefaultA","Default","Explicit",-5.7619934396817e-05
+"17Networks_LH_DefaultA_PFCd_1","DefaultA","Default","Explicit",8.84738918958189e-06
+"17Networks_LH_DefaultA_PFCd_2","DefaultA","Default","Explicit",-2.17349623120874e-05
+"17Networks_LH_DefaultA_PFCd_3","DefaultA","Default","Explicit",-0.000169216326086159
+"17Networks_LH_DefaultA_pCunPCC_1","DefaultA","Default","Explicit",-0.000220458920846944
+"17Networks_LH_DefaultA_pCunPCC_2","DefaultA","Default","Explicit",-0.000159903953014773
+"17Networks_LH_DefaultA_pCunPCC_3","DefaultA","Default","Explicit",-5.37664111065483e-05
+"17Networks_LH_DefaultA_pCunPCC_4","DefaultA","Default","Explicit",-9.75525760648949e-05
+"17Networks_LH_DefaultA_pCunPCC_5","DefaultA","Default","Explicit",1.02987284344289e-05
+"17Networks_LH_DefaultA_pCunPCC_6","DefaultA","Default","Explicit",-0.00013552454179388
+"17Networks_LH_DefaultA_pCunPCC_7","DefaultA","Default","Explicit",-2.36844133334753e-05
+"17Networks_LH_DefaultA_PFCm_1","DefaultA","Default","Explicit",-0.000130148120413002
+"17Networks_LH_DefaultA_PFCm_2","DefaultA","Default","Explicit",-3.93048146806216e-05
+"17Networks_LH_DefaultA_PFCm_3","DefaultA","Default","Explicit",-0.000144948872525196
+"17Networks_LH_DefaultA_PFCm_4","DefaultA","Default","Explicit",1.05243572915551e-05
+"17Networks_LH_DefaultA_PFCm_5","DefaultA","Default","Explicit",3.997662764666e-05
+"17Networks_LH_DefaultA_PFCm_6","DefaultA","Default","Explicit",1.86564034256601e-06
+"17Networks_LH_DefaultB_Temp_1","DefaultB","Default","Explicit",0.0480243905556399
+"17Networks_LH_DefaultB_Temp_2","DefaultB","Default","Explicit",0.045362891400037
+"17Networks_LH_DefaultB_Temp_3","DefaultB","Default","Explicit",0.0194879263417129
+"17Networks_LH_DefaultB_Temp_4","DefaultB","Default","Explicit",0.0328582542833209
+"17Networks_LH_DefaultB_Temp_5","DefaultB","Default","Explicit",-0.0138497026905638
+"17Networks_LH_DefaultB_Temp_6","DefaultB","Default","Explicit",-0.0380126237427363
+"17Networks_LH_DefaultB_IPL_1","DefaultB","Default","Explicit",0.00604406680918858
+"17Networks_LH_DefaultB_IPL_2","DefaultB","Default","Explicit",0.0282728962659649
+"17Networks_LH_DefaultB_PFCd_1","DefaultB","Default","Explicit",-0.00501104820407615
+"17Networks_LH_DefaultB_PFCd_2","DefaultB","Default","Explicit",0.0217965145273865
+"17Networks_LH_DefaultB_PFCd_3","DefaultB","Default","Explicit",0.00682678424594978
+"17Networks_LH_DefaultB_PFCd_4","DefaultB","Default","Explicit",-0.0242476231531808
+"17Networks_LH_DefaultB_PFCd_5","DefaultB","Default","Explicit",0.0230095165893785
+"17Networks_LH_DefaultB_PFCd_6","DefaultB","Default","Explicit",0.018100108294854
+"17Networks_LH_DefaultB_PFCl_1","DefaultB","Default","Explicit",0.0145902968761631
+"17Networks_LH_DefaultB_PFCl_2","DefaultB","Default","Explicit",-0.0302265728374587
+"17Networks_LH_DefaultB_PFCv_1","DefaultB","Default","Explicit",-0.00689547482560616
+"17Networks_LH_DefaultB_PFCv_2","DefaultB","Default","Explicit",0.0103777636715485
+"17Networks_LH_DefaultB_PFCv_3","DefaultB","Default","Explicit",0.00457937205464066
+"17Networks_LH_DefaultB_PFCv_4","DefaultB","Default","Explicit",0.0254226988984507
+"17Networks_LH_DefaultB_PFCv_5","DefaultB","Default","Explicit",0.0523794552891256
+"17Networks_LH_DefaultC_IPL_1","DefaultC","Default","Explicit",-0.00949268627594653
+"17Networks_LH_DefaultC_Rsp_1","DefaultC","Default","Explicit",0.00147213402081911
+"17Networks_LH_DefaultC_Rsp_2","DefaultC","Default","Explicit",-0.00542308210262728
+"17Networks_LH_DefaultC_Rsp_3","DefaultC","Default","Explicit",0.00897557138326738
+"17Networks_LH_DefaultC_PHC_1","DefaultC","Default","Explicit",-6.95530173899419e-05
+"17Networks_LH_DefaultC_PHC_2","DefaultC","Default","Explicit",0.0227669901051181
+"17Networks_LH_DefaultC_PHC_3","DefaultC","Default","Explicit",-0.00205645939303663
+"17Networks_LH_TempPar_1","TempPar","TempPar","Explicit",0.0228471053318999
+"17Networks_LH_TempPar_2","TempPar","TempPar","Explicit",0.0327733888968599
+"17Networks_LH_TempPar_3","TempPar","TempPar","Explicit",0.0150427137815095
+"17Networks_LH_TempPar_4","TempPar","TempPar","Explicit",-0.000645140555855106
+"17Networks_LH_TempPar_5","TempPar","TempPar","Explicit",-0.00514095562117426
+"17Networks_LH_TempPar_6","TempPar","TempPar","Explicit",-0.0264000397321176
+"17Networks_RH_VisCent_ExStr_1","VisCent","Visual","Explicit",-0.0101778409571151
+"17Networks_RH_VisCent_ExStr_2","VisCent","Visual","Explicit",-0.061405030864613
+"17Networks_RH_VisCent_ExStr_3","VisCent","Visual","Explicit",-0.00521682760023323
+"17Networks_RH_VisCent_ExStr_4","VisCent","Visual","Explicit",-0.0530780651245178
+"17Networks_RH_VisCent_ExStr_5","VisCent","Visual","Explicit",0.0501486347519268
+"17Networks_RH_VisCent_ExStr_6","VisCent","Visual","Explicit",0.00395420639529222
+"17Networks_RH_VisCent_Striate_1","VisCent","Visual","Explicit",0.0284566196025219
+"17Networks_RH_VisCent_ExStr_7","VisCent","Visual","Explicit",-0.000268747419974738
+"17Networks_RH_VisCent_ExStr_8","VisCent","Visual","Explicit",-0.00372195762155504
+"17Networks_RH_VisCent_ExStr_9","VisCent","Visual","Explicit",-0.00810947200209146
+"17Networks_RH_VisCent_ExStr_10","VisCent","Visual","Explicit",0.00587856553159906
+"17Networks_RH_VisCent_ExStr_11","VisCent","Visual","Explicit",0.000208527543654708
+"17Networks_RH_VisPeri_ExStrInf_1","VisPeri","Visual","Explicit",0.00128534444696915
+"17Networks_RH_VisPeri_ExStrInf_2","VisPeri","Visual","Explicit",0.00096283261142293
+"17Networks_RH_VisPeri_ExStrInf_3","VisPeri","Visual","Explicit",-0.000573409462000784
+"17Networks_RH_VisPeri_ExStrInf_4","VisPeri","Visual","Explicit",0.0062113834331175
+"17Networks_RH_VisPeri_ExStrInf_5","VisPeri","Visual","Explicit",0.00505423756867972
+"17Networks_RH_VisPeri_StriCal_1","VisPeri","Visual","Explicit",0.00100989289997406
+"17Networks_RH_VisPeri_StriCal_2","VisPeri","Visual","Explicit",-3.31252143921539e-05
+"17Networks_RH_VisPeri_ExStrSup_1","VisPeri","Visual","Explicit",0.00178637774942777
+"17Networks_RH_VisPeri_ExStrSup_2","VisPeri","Visual","Explicit",0.00260460376351849
+"17Networks_RH_VisPeri_ExStrSup_3","VisPeri","Visual","Explicit",-0.00266266758578064
+"17Networks_RH_VisPeri_ExStrSup_4","VisPeri","Visual","Explicit",0.00249498357442186
+"17Networks_RH_DorsAttnA_TempOcc_1","DorsAttnA","DorsAttn","Explicit",-0.0286776494866925
+"17Networks_RH_DorsAttnA_TempOcc_2","DorsAttnA","DorsAttn","Explicit",-0.00313186188838916
+"17Networks_RH_DorsAttnA_TempOcc_3","DorsAttnA","DorsAttn","Explicit",0.0107886948440723
+"17Networks_RH_DorsAttnA_ParOcc_1","DorsAttnA","DorsAttn","Explicit",-0.0118227560939319
+"17Networks_RH_DorsAttnA_ParOcc_2","DorsAttnA","DorsAttn","Explicit",-0.0182621070487514
+"17Networks_RH_DorsAttnA_ParOcc_3","DorsAttnA","DorsAttn","Explicit",0.00763329024599444
+"17Networks_RH_DorsAttnA_SPL_1","DorsAttnA","DorsAttn","Explicit",0.0143876523051648
+"17Networks_RH_DorsAttnA_SPL_2","DorsAttnA","DorsAttn","Explicit",0.0264823337785333
+"17Networks_RH_DorsAttnA_SPL_3","DorsAttnA","DorsAttn","Explicit",0.0225273728294021
+"17Networks_RH_DorsAttnA_SPL_4","DorsAttnA","DorsAttn","Explicit",0.000194997835950441
+"17Networks_RH_DorsAttnA_SPL_5","DorsAttnA","DorsAttn","Explicit",0.0162696003195137
+"17Networks_RH_DorsAttnA_SPL_6","DorsAttnA","DorsAttn","Explicit",-0.0106596838403545
+"17Networks_RH_DorsAttnA_SPL_7","DorsAttnA","DorsAttn","Explicit",-0.00915585422279014
+"17Networks_RH_DorsAttnA_SPL_8","DorsAttnA","DorsAttn","Explicit",-0.00847362904557787
+"17Networks_RH_DorsAttnB_TempOcc_1","DorsAttnB","DorsAttn","Explicit",-0.00377382139038316
+"17Networks_RH_DorsAttnB_PostC_1","DorsAttnB","DorsAttn","Explicit",-0.00709424280287068
+"17Networks_RH_DorsAttnB_PostC_2","DorsAttnB","DorsAttn","Explicit",0.0120279703422412
+"17Networks_RH_DorsAttnB_PostC_3","DorsAttnB","DorsAttn","Explicit",0.00286223035890808
+"17Networks_RH_DorsAttnB_PostC_4","DorsAttnB","DorsAttn","Explicit",0.000356110585928672
+"17Networks_RH_DorsAttnB_PostC_5","DorsAttnB","DorsAttn","Explicit",-0.00710689921442604
+"17Networks_RH_DorsAttnB_PostC_6","DorsAttnB","DorsAttn","Explicit",-0.00143529557465914
+"17Networks_RH_DorsAttnB_PostC_7","DorsAttnB","DorsAttn","Explicit",-0.0144761666879974
+"17Networks_RH_DorsAttnB_PostC_8","DorsAttnB","DorsAttn","Explicit",0.0184308541915361
+"17Networks_RH_DorsAttnB_FEF_1","DorsAttnB","DorsAttn","Explicit",-0.011332575309636
+"17Networks_RH_DorsAttnB_FEF_2","DorsAttnB","DorsAttn","Explicit",-0.00637087451857023
+"17Networks_RH_DorsAttnB_FEF_3","DorsAttnB","DorsAttn","Explicit",-2.61316532513221e-05
+"17Networks_RH_SalVentAttnA_ParOper_1","SalVentAttnA","VentAttn","Explicit",-0.0395936579728486
+"17Networks_RH_SalVentAttnA_ParOper_2","SalVentAttnA","VentAttn","Explicit",-0.044260850524216
+"17Networks_RH_SalVentAttnA_ParOper_3","SalVentAttnA","VentAttn","Explicit",0.00397395053347691
+"17Networks_RH_SalVentAttnA_PrC_1","SalVentAttnA","VentAttn","Explicit",-0.0190872744841218
+"17Networks_RH_SalVentAttnA_Ins_1","SalVentAttnA","VentAttn","Explicit",-0.00320200663397476
+"17Networks_RH_SalVentAttnA_Ins_2","SalVentAttnA","VentAttn","Explicit",0.0251704824308339
+"17Networks_RH_SalVentAttnA_Ins_3","SalVentAttnA","VentAttn","Explicit",-0.0173753407535603
+"17Networks_RH_SalVentAttnA_Ins_4","SalVentAttnA","VentAttn","Explicit",0.00269089062155868
+"17Networks_RH_SalVentAttnA_FrOper_1","SalVentAttnA","VentAttn","Explicit",-0.0364685845063365
+"17Networks_RH_SalVentAttnA_FrOper_2","SalVentAttnA","VentAttn","Explicit",-0.0247019913317165
+"17Networks_RH_SalVentAttnA_FrOper_3","SalVentAttnA","VentAttn","Explicit",-0.0365006355146068
+"17Networks_RH_SalVentAttnA_FrMed_1","SalVentAttnA","VentAttn","Explicit",-0.0290466053593124
+"17Networks_RH_SalVentAttnA_ParMed_1","SalVentAttnA","VentAttn","Explicit",-0.0290282389524887
+"17Networks_RH_SalVentAttnA_ParMed_2","SalVentAttnA","VentAttn","Explicit",-0.0158902249191392
+"17Networks_RH_SalVentAttnA_FrMed_2","SalVentAttnA","VentAttn","Explicit",-0.0048009099802796
+"17Networks_RH_SalVentAttnA_ParMed_3","SalVentAttnA","VentAttn","Explicit",0.0151351690386976
+"17Networks_RH_SalVentAttnA_ParMed_4","SalVentAttnA","VentAttn","Explicit",-0.0203769536840829
+"17Networks_RH_SalVentAttnA_FrMed_3","SalVentAttnA","VentAttn","Explicit",-0.0381100503758308
+"17Networks_RH_SalVentAttnA_FrMed_4","SalVentAttnA","VentAttn","Explicit",-0.0178467049856479
+"17Networks_RH_SalVentAttnB_IPL_1","SalVentAttnB","VentAttn","Explicit",-0.000519232714728323
+"17Networks_RH_SalVentAttnB_PFClv_1","SalVentAttnB","VentAttn","Explicit",0.00132432658762707
+"17Networks_RH_SalVentAttnB_PFCl_1","SalVentAttnB","VentAttn","Explicit",0.000155737677195958
+"17Networks_RH_SalVentAttnB_PFCl_2","SalVentAttnB","VentAttn","Explicit",-0.00126509933618306
+"17Networks_RH_SalVentAttnB_PFCl_3","SalVentAttnB","VentAttn","Explicit",-0.000516544824806801
+"17Networks_RH_SalVentAttnB_Ins_1","SalVentAttnB","VentAttn","Explicit",-0.000575943314174554
+"17Networks_RH_SalVentAttnB_Ins_2","SalVentAttnB","VentAttn","Explicit",0.000817958753845212
+"17Networks_RH_SalVentAttnB_PFCmp_1","SalVentAttnB","VentAttn","Explicit",-0.000225537382983098
+"17Networks_RH_SalVentAttnB_PFCmp_2","SalVentAttnB","VentAttn","Explicit",-0.00264842467489868
+"17Networks_RH_LimbicB_OFC_1","LimbicB","Limbic","Explicit",-0.00531948954950708
+"17Networks_RH_LimbicB_OFC_2","LimbicB","Limbic","Explicit",-0.00499367285842135
+"17Networks_RH_LimbicB_OFC_3","LimbicB","Limbic","Explicit",-0.0031645759572033
+"17Networks_RH_LimbicB_OFC_4","LimbicB","Limbic","Explicit",-0.00049867602451098
+"17Networks_RH_LimbicB_OFC_5","LimbicB","Limbic","Explicit",-0.00552382093589019
+"17Networks_RH_LimbicB_OFC_6","LimbicB","Limbic","Explicit",-0.00221203076615505
+"17Networks_RH_LimbicA_TempPole_1","LimbicA","Limbic","Explicit",0.00455347027969847
+"17Networks_RH_LimbicA_TempPole_2","LimbicA","Limbic","Explicit",0.00449735189161094
+"17Networks_RH_LimbicA_TempPole_3","LimbicA","Limbic","Explicit",0.00135892098601621
+"17Networks_RH_LimbicA_TempPole_4","LimbicA","Limbic","Explicit",-0.00251191601049513
+"17Networks_RH_LimbicA_TempPole_5","LimbicA","Limbic","Explicit",0.000225257412458902
+"17Networks_RH_LimbicA_TempPole_6","LimbicA","Limbic","Explicit",-0.00276013751022005
+"17Networks_RH_ContA_IPS_1","ContA","Control","Explicit",0.00705063440391988
+"17Networks_RH_ContA_IPS_2","ContA","Control","Explicit",0.0122402859287834
+"17Networks_RH_ContA_IPS_3","ContA","Control","Explicit",0.0117498506300899
+"17Networks_RH_ContA_IPS_4","ContA","Control","Explicit",0.00228093837079397
+"17Networks_RH_ContA_PFCd_1","ContA","Control","Explicit",-0.00789839823542782
+"17Networks_RH_ContA_PFCl_1","ContA","Control","Explicit",0.00409598945268981
+"17Networks_RH_ContA_PFCl_2","ContA","Control","Explicit",-0.00311348758784823
+"17Networks_RH_ContA_PFCl_3","ContA","Control","Explicit",-0.00838395414161864
+"17Networks_RH_ContA_PFCl_4","ContA","Control","Explicit",-0.00787161739379413
+"17Networks_RH_ContA_PFCl_5","ContA","Control","Explicit",0.000347664190475925
+"17Networks_RH_ContA_Cingm_1","ContA","Control","Explicit",-0.00418959528624629
+"17Networks_RH_ContB_Temp_1","ContB","Control","Explicit",-0.0016567627551291
+"17Networks_RH_ContB_Temp_2","ContB","Control","Explicit",0.000362426621456351
+"17Networks_RH_ContB_IPL_1","ContB","Control","Explicit",6.9109860829094e-05
+"17Networks_RH_ContB_IPL_2","ContB","Control","Explicit",0.000885519878167221
+"17Networks_RH_ContB_IPL_3","ContB","Control","Explicit",0.000300914701327357
+"17Networks_RH_ContB_IPL_4","ContB","Control","Explicit",0.000454550899740617
+"17Networks_RH_ContB_PFCld_1","ContB","Control","Explicit",0.000460936894190293
+"17Networks_RH_ContB_PFCld_2","ContB","Control","Explicit",0.00064958539528359
+"17Networks_RH_ContB_PFCld_3","ContB","Control","Explicit",-0.000487351228327465
+"17Networks_RH_ContB_PFCld_4","ContB","Control","Explicit",-0.000153917788263459
+"17Networks_RH_ContB_PFClv_1","ContB","Control","Explicit",0.000833207423486063
+"17Networks_RH_ContB_PFClv_2","ContB","Control","Explicit",-0.0014908901789581
+"17Networks_RH_ContB_PFClv_3","ContB","Control","Explicit",-0.000443187574623056
+"17Networks_RH_ContB_PFClv_4","ContB","Control","Explicit",-0.00092438397439874
+"17Networks_RH_ContB_PFCmp_1","ContB","Control","Explicit",0.0011822217106601
+"17Networks_RH_ContC_pCun_1","ContC","Control","Explicit",0.0129649071278796
+"17Networks_RH_ContC_pCun_2","ContC","Control","Explicit",0.00478835818413364
+"17Networks_RH_ContC_pCun_3","ContC","Control","Explicit",-0.0124685948365856
+"17Networks_RH_ContC_pCun_4","ContC","Control","Explicit",-0.0188062666949617
+"17Networks_RH_ContC_pCun_5","ContC","Control","Explicit",0.0259750920255282
+"17Networks_RH_ContC_Cingp_1","ContC","Control","Explicit",-0.0127552063377012
+"17Networks_RH_ContC_Cingp_2","ContC","Control","Explicit",0.0013637408311751
+"17Networks_RH_DefaultA_Temp_1","DefaultA","Default","Explicit",8.88641963017792e-06
+"17Networks_RH_DefaultA_IPL_1","DefaultA","Default","Explicit",-8.13937094194057e-05
+"17Networks_RH_DefaultA_IPL_2","DefaultA","Default","Explicit",1.44544202526866e-05
+"17Networks_RH_DefaultA_PFCd_1","DefaultA","Default","Explicit",-3.265903083494e-05
+"17Networks_RH_DefaultA_PFCd_2","DefaultA","Default","Explicit",-2.18326322917803e-05
+"17Networks_RH_DefaultA_pCunPCC_1","DefaultA","Default","Explicit",-0.000133927366176912
+"17Networks_RH_DefaultA_pCunPCC_2","DefaultA","Default","Explicit",7.37073704657395e-05
+"17Networks_RH_DefaultA_pCunPCC_3","DefaultA","Default","Explicit",-0.000195469183310587
+"17Networks_RH_DefaultA_pCunPCC_4","DefaultA","Default","Explicit",-5.27901138131347e-05
+"17Networks_RH_DefaultA_pCunPCC_5","DefaultA","Default","Explicit",-4.06293471809314e-05
+"17Networks_RH_DefaultA_PFCm_1","DefaultA","Default","Explicit",-0.000113251869784849
+"17Networks_RH_DefaultA_PFCm_2","DefaultA","Default","Explicit",4.3527995701258e-05
+"17Networks_RH_DefaultA_PFCm_3","DefaultA","Default","Explicit",-3.26315994529049e-05
+"17Networks_RH_DefaultA_PFCm_4","DefaultA","Default","Explicit",-7.99842589460487e-05
+"17Networks_RH_DefaultA_PFCm_5","DefaultA","Default","Explicit",0.000100383408868344
+"17Networks_RH_DefaultA_PFCm_6","DefaultA","Default","Explicit",-8.20020229519533e-05
+"17Networks_RH_DefaultB_Temp_1","DefaultB","Default","Explicit",-0.0236287175748892
+"17Networks_RH_DefaultB_Temp_2","DefaultB","Default","Explicit",0.0723142315326849
+"17Networks_RH_DefaultB_AntTemp_1","DefaultB","Default","Explicit",0.0215268989762157
+"17Networks_RH_DefaultB_PFCd_1","DefaultB","Default","Explicit",0.0502131271695751
+"17Networks_RH_DefaultB_PFCd_2","DefaultB","Default","Explicit",0.0356558049978514
+"17Networks_RH_DefaultB_PFCd_3","DefaultB","Default","Explicit",0.0537128339146742
+"17Networks_RH_DefaultB_PFCd_4","DefaultB","Default","Explicit",0.050329446050115
+"17Networks_RH_DefaultB_PFCd_5","DefaultB","Default","Explicit",0.00763737289324041
+"17Networks_RH_DefaultB_PFCv_1","DefaultB","Default","Explicit",0.0404426275420857
+"17Networks_RH_DefaultB_PFCv_2","DefaultB","Default","Explicit",-0.018960555851086
+"17Networks_RH_DefaultB_PFCv_3","DefaultB","Default","Explicit",0.0122315804447146
+"17Networks_RH_DefaultC_IPL_1","DefaultC","Default","Explicit",-0.0273686358293745
+"17Networks_RH_DefaultC_IPL_2","DefaultC","Default","Explicit",-0.00685736368363433
+"17Networks_RH_DefaultC_Rsp_1","DefaultC","Default","Explicit",-0.00543819847984219
+"17Networks_RH_DefaultC_Rsp_2","DefaultC","Default","Explicit",0.0107982912734475
+"17Networks_RH_DefaultC_PHC_1","DefaultC","Default","Explicit",0.00585299596431324
+"17Networks_RH_DefaultC_PHC_2","DefaultC","Default","Explicit",0.0432289994784301
+"17Networks_RH_TempPar_1","TempPar","TempPar","Explicit",0.00595484351309117
+"17Networks_RH_TempPar_2","TempPar","TempPar","Explicit",0.0183823476038501
+"17Networks_RH_TempPar_3","TempPar","TempPar","Explicit",-0.00824540877753403
+"17Networks_RH_TempPar_4","TempPar","TempPar","Explicit",-0.0012914450566768
+"17Networks_RH_TempPar_5","TempPar","TempPar","Explicit",-0.00906685916737917
+"17Networks_RH_TempPar_6","TempPar","TempPar","Explicit",-0.0259396982260945
+"17Networks_RH_TempPar_7","TempPar","TempPar","Explicit",-0.00587471862138593
+"17Networks_RH_TempPar_8","TempPar","TempPar","Explicit",-0.0107561129640775
+"17Networks_RH_TempPar_9","TempPar","TempPar","Explicit",-0.0145431369031569
+"17Networks_RH_TempPar_10","TempPar","TempPar","Explicit",-0.00754249567907137
+"Left Caudate","Subcortex","Subcortex","Explicit",-1.93183931792841e-07
+"Left Putamen","Subcortex","Subcortex","Explicit",-8.41993063888521e-05
+"Left Pallidum","Subcortex","Subcortex","Explicit",-2.33817088283452e-05
+"Left Accumbens","Subcortex","Subcortex","Explicit",-9.41111656826706e-06
+"Right Caudate","Subcortex","Subcortex","Explicit",-6.82474697646603e-05
+"Right Putamen","Subcortex","Subcortex","Explicit",-5.13412171229663e-05
+"Right Pallidum","Subcortex","Subcortex","Explicit",-3.46584392917628e-05
+"Right Accumbens","Subcortex","Subcortex","Explicit",-9.03521740838749e-05
+"Left I-IV","Cerebellum","Cerebellum","Explicit",0.000840122781032164
+"Right I-IV","Cerebellum","Cerebellum","Explicit",0.000563284613762181
+"Left V","Cerebellum","Cerebellum","Explicit",0.000332504773450639
+"Right V","Cerebellum","Cerebellum","Explicit",-9.73599709726972e-05
+"Left VI","Cerebellum","Cerebellum","Explicit",0.000263947110599873
+"Vermis VI","Cerebellum","Cerebellum","Explicit",0.000390876407283875
+"Right VI","Cerebellum","Cerebellum","Explicit",0.000397422733711025
+"Left Crus I","Cerebellum","Cerebellum","Explicit",0.000280777850482535
+"Vermis Crus I","Cerebellum","Cerebellum","Explicit",0.000265805948197843
+"Right Crus I","Cerebellum","Cerebellum","Explicit",3.34287604537222e-05
+"Left Crus II","Cerebellum","Cerebellum","Explicit",6.8364093285821e-05
+"Vermis Crus II","Cerebellum","Cerebellum","Explicit",-6.80710516162323e-05
+"Right Crus II","Cerebellum","Cerebellum","Explicit",-0.000548755600693702
+"Left VIIb","Cerebellum","Cerebellum","Explicit",0.000528132720850483
+"Vermis VIIb","Cerebellum","Cerebellum","Explicit",0.000385732454666058
+"Right VIIb","Cerebellum","Cerebellum","Explicit",-0.000282280989139978
+"Left VIIIa","Cerebellum","Cerebellum","Explicit",0.000945879399776938
+"Vermis VIIIa","Cerebellum","Cerebellum","Explicit",0.000145474516716147
+"Right VIIIa","Cerebellum","Cerebellum","Explicit",-1.35561368641647e-05
+"Left VIIIb","Cerebellum","Cerebellum","Explicit",-0.000153513055260222
+"Vermis VIIIb","Cerebellum","Cerebellum","Explicit",-0.000937495960573163
+"Right VIIIb","Cerebellum","Cerebellum","Explicit",0.000133413048678903
+"Left IX","Cerebellum","Cerebellum","Explicit",0.000424904837376974
+"Vermis IX","Cerebellum","Cerebellum","Explicit",-0.00107098511175545
+"Right IX","Cerebellum","Cerebellum","Explicit",-7.67758359172645e-05
+"Left X","Cerebellum","Cerebellum","Explicit",0.00013001692349325
+"Vermis X","Cerebellum","Cerebellum","Explicit",0.000112306549334779
+"Right X","Cerebellum","Cerebellum","Explicit",-0.000725007258558029
+"17Networks_LH_VisCent_ExStr_1","VisCent","Visual","Performance",-3.2719123659114e-06
+"17Networks_LH_VisCent_ExStr_2","VisCent","Visual","Performance",-1.93460679265256e-06
+"17Networks_LH_VisCent_ExStr_3","VisCent","Visual","Performance",1.33461969123371e-06
+"17Networks_LH_VisCent_ExStr_4","VisCent","Visual","Performance",-2.72350679380812e-06
+"17Networks_LH_VisCent_ExStr_5","VisCent","Visual","Performance",-2.15006283526894e-07
+"17Networks_LH_VisCent_ExStr_6","VisCent","Visual","Performance",-4.53053977583937e-07
+"17Networks_LH_VisCent_Striate_1","VisCent","Visual","Performance",-3.56700870521693e-07
+"17Networks_LH_VisCent_ExStr_7","VisCent","Visual","Performance",-2.11487067380679e-06
+"17Networks_LH_VisCent_ExStr_8","VisCent","Visual","Performance",1.50460091850805e-07
+"17Networks_LH_VisCent_ExStr_9","VisCent","Visual","Performance",-1.88316145343825e-06
+"17Networks_LH_VisCent_ExStr_10","VisCent","Visual","Performance",-1.40326831339239e-06
+"17Networks_LH_VisCent_ExStr_11","VisCent","Visual","Performance",-8.99705944690499e-07
+"17Networks_LH_VisPeri_ExStrInf_1","VisPeri","Visual","Performance",-0.000167439972678153
+"17Networks_LH_VisPeri_ExStrInf_2","VisPeri","Visual","Performance",-8.2691116455739e-05
+"17Networks_LH_VisPeri_ExStrInf_3","VisPeri","Visual","Performance",-0.000221031778743759
+"17Networks_LH_VisPeri_ExStrInf_4","VisPeri","Visual","Performance",-0.00022588099909274
+"17Networks_LH_VisPeri_ExStrInf_5","VisPeri","Visual","Performance",-0.000134427677053776
+"17Networks_LH_VisPeri_StriCal_1","VisPeri","Visual","Performance",-6.69960121296763e-05
+"17Networks_LH_VisPeri_StriCal_2","VisPeri","Visual","Performance",4.14531273073453e-07
+"17Networks_LH_VisPeri_ExStrSup_1","VisPeri","Visual","Performance",-9.0900450271569e-05
+"17Networks_LH_VisPeri_ExStrSup_2","VisPeri","Visual","Performance",-0.000136187118125564
+"17Networks_LH_VisPeri_ExStrSup_3","VisPeri","Visual","Performance",1.2905209880081e-05
+"17Networks_LH_VisPeri_ExStrSup_4","VisPeri","Visual","Performance",-0.000126757380644723
+"17Networks_LH_VisPeri_ExStrSup_5","VisPeri","Visual","Performance",-0.000141027371051707
+"17Networks_LH_DorsAttnA_TempOcc_1","DorsAttnA","DorsAttn","Performance",-1.14556550514866e-05
+"17Networks_LH_DorsAttnA_TempOcc_2","DorsAttnA","DorsAttn","Performance",4.09160881616765e-06
+"17Networks_LH_DorsAttnA_TempOcc_3","DorsAttnA","DorsAttn","Performance",-1.64167334847805e-05
+"17Networks_LH_DorsAttnA_TempOcc_4","DorsAttnA","DorsAttn","Performance",-4.45909546208371e-06
+"17Networks_LH_DorsAttnA_ParOcc_1","DorsAttnA","DorsAttn","Performance",-1.47470517414279e-05
+"17Networks_LH_DorsAttnA_ParOcc_2","DorsAttnA","DorsAttn","Performance",-9.86548036816814e-07
+"17Networks_LH_DorsAttnA_SPL_1","DorsAttnA","DorsAttn","Performance",-5.69019368485655e-08
+"17Networks_LH_DorsAttnA_SPL_2","DorsAttnA","DorsAttn","Performance",7.91571069730701e-07
+"17Networks_LH_DorsAttnA_SPL_3","DorsAttnA","DorsAttn","Performance",5.09533711672453e-06
+"17Networks_LH_DorsAttnA_SPL_4","DorsAttnA","DorsAttn","Performance",8.42935326634835e-06
+"17Networks_LH_DorsAttnA_SPL_5","DorsAttnA","DorsAttn","Performance",1.46872430322152e-05
+"17Networks_LH_DorsAttnA_SPL_6","DorsAttnA","DorsAttn","Performance",1.8068077749742e-05
+"17Networks_LH_DorsAttnA_SPL_7","DorsAttnA","DorsAttn","Performance",1.98141960939418e-06
+"17Networks_LH_DorsAttnB_PostC_1","DorsAttnB","DorsAttn","Performance",-0.00487372449779215
+"17Networks_LH_DorsAttnB_PostC_2","DorsAttnB","DorsAttn","Performance",-0.00739774099324544
+"17Networks_LH_DorsAttnB_PostC_3","DorsAttnB","DorsAttn","Performance",0.00218331344281504
+"17Networks_LH_DorsAttnB_PostC_4","DorsAttnB","DorsAttn","Performance",-0.0059594522049692
+"17Networks_LH_DorsAttnB_PostC_5","DorsAttnB","DorsAttn","Performance",0.00165104926995354
+"17Networks_LH_DorsAttnB_PostC_6","DorsAttnB","DorsAttn","Performance",-0.00170227684738877
+"17Networks_LH_DorsAttnB_PostC_7","DorsAttnB","DorsAttn","Performance",-0.00326641310692924
+"17Networks_LH_DorsAttnB_PostC_8","DorsAttnB","DorsAttn","Performance",-0.00264605802175264
+"17Networks_LH_DorsAttnB_PostC_9","DorsAttnB","DorsAttn","Performance",-0.00448970776386516
+"17Networks_LH_DorsAttnB_FEF_1","DorsAttnB","DorsAttn","Performance",0.00308870102986562
+"17Networks_LH_DorsAttnB_FEF_2","DorsAttnB","DorsAttn","Performance",0.00292381903043715
+"17Networks_LH_DorsAttnB_FEF_3","DorsAttnB","DorsAttn","Performance",0.00514016849712644
+"17Networks_LH_DorsAttnB_PrCv_1","DorsAttnB","DorsAttn","Performance",0.00590270157892194
+"17Networks_LH_SalVentAttnA_ParOper_1","SalVentAttnA","VentAttn","Performance",-5.22393695087053e-08
+"17Networks_LH_SalVentAttnA_ParOper_2","SalVentAttnA","VentAttn","Performance",-3.74000374209437e-11
+"17Networks_LH_SalVentAttnA_ParOper_3","SalVentAttnA","VentAttn","Performance",-3.16210298513926e-08
+"17Networks_LH_SalVentAttnA_Ins_1","SalVentAttnA","VentAttn","Performance",-1.11625925208211e-09
+"17Networks_LH_SalVentAttnA_Ins_2","SalVentAttnA","VentAttn","Performance",-6.74990791397347e-08
+"17Networks_LH_SalVentAttnA_Ins_3","SalVentAttnA","VentAttn","Performance",-9.60073537188907e-09
+"17Networks_LH_SalVentAttnA_Ins_4","SalVentAttnA","VentAttn","Performance",-6.99876735837004e-08
+"17Networks_LH_SalVentAttnA_FrOper_1","SalVentAttnA","VentAttn","Performance",-5.22431872390972e-08
+"17Networks_LH_SalVentAttnA_FrOper_2","SalVentAttnA","VentAttn","Performance",-3.34825171503146e-08
+"17Networks_LH_SalVentAttnA_ParMed_1","SalVentAttnA","VentAttn","Performance",-9.01751557687545e-09
+"17Networks_LH_SalVentAttnA_ParMed_2","SalVentAttnA","VentAttn","Performance",2.64374192553036e-08
+"17Networks_LH_SalVentAttnA_ParMed_3","SalVentAttnA","VentAttn","Performance",-1.06936577300403e-08
+"17Networks_LH_SalVentAttnA_FrMed_1","SalVentAttnA","VentAttn","Performance",-5.10283335856493e-08
+"17Networks_LH_SalVentAttnA_FrMed_2","SalVentAttnA","VentAttn","Performance",-2.08645879665898e-09
+"17Networks_LH_SalVentAttnA_FrMed_3","SalVentAttnA","VentAttn","Performance",6.60770265934865e-09
+"17Networks_LH_SalVentAttnB_PFCl_1","SalVentAttnB","VentAttn","Performance",0.00531218039766087
+"17Networks_LH_SalVentAttnB_PFCl_2","SalVentAttnB","VentAttn","Performance",-0.0282487845765909
+"17Networks_LH_SalVentAttnB_PFCl_3","SalVentAttnB","VentAttn","Performance",-0.0162170957482133
+"17Networks_LH_SalVentAttnB_Ins_1","SalVentAttnB","VentAttn","Performance",0.0140188909873483
+"17Networks_LH_SalVentAttnB_Ins_2","SalVentAttnB","VentAttn","Performance",0.0232746299407151
+"17Networks_LH_SalVentAttnB_Ins_3","SalVentAttnB","VentAttn","Performance",-0.0200214564448408
+"17Networks_LH_SalVentAttnB_OFC_1","SalVentAttnB","VentAttn","Performance",0.0161919894421697
+"17Networks_LH_SalVentAttnB_PFCmp_1","SalVentAttnB","VentAttn","Performance",-0.0449698385053201
+"17Networks_LH_LimbicB_OFC_1","LimbicB","Limbic","Performance",3.36587765454434e-07
+"17Networks_LH_LimbicB_OFC_2","LimbicB","Limbic","Performance",-7.61542518090004e-07
+"17Networks_LH_LimbicB_OFC_3","LimbicB","Limbic","Performance",2.17109783480019e-07
+"17Networks_LH_LimbicB_OFC_4","LimbicB","Limbic","Performance",2.42353698915273e-07
+"17Networks_LH_LimbicB_OFC_5","LimbicB","Limbic","Performance",2.80493584336116e-07
+"17Networks_LH_LimbicA_TempPole_1","LimbicA","Limbic","Performance",-7.3214465677948e-07
+"17Networks_LH_LimbicA_TempPole_2","LimbicA","Limbic","Performance",-5.78983321252915e-07
+"17Networks_LH_LimbicA_TempPole_3","LimbicA","Limbic","Performance",-7.28570729553633e-07
+"17Networks_LH_LimbicA_TempPole_4","LimbicA","Limbic","Performance",-2.91421187574108e-07
+"17Networks_LH_LimbicA_TempPole_5","LimbicA","Limbic","Performance",3.645293624629e-07
+"17Networks_LH_LimbicA_TempPole_6","LimbicA","Limbic","Performance",-2.81999363943407e-07
+"17Networks_LH_LimbicA_TempPole_7","LimbicA","Limbic","Performance",7.07945842893559e-07
+"17Networks_LH_ContA_Temp_1","ContA","Control","Performance",-0.0517212784211067
+"17Networks_LH_ContA_IPS_1","ContA","Control","Performance",0.0512218423822098
+"17Networks_LH_ContA_IPS_2","ContA","Control","Performance",0.103919179032028
+"17Networks_LH_ContA_IPS_3","ContA","Control","Performance",0.0332293095679472
+"17Networks_LH_ContA_IPS_4","ContA","Control","Performance",0.107375149154053
+"17Networks_LH_ContA_IPS_5","ContA","Control","Performance",-0.0532771839561033
+"17Networks_LH_ContA_PFCd_1","ContA","Control","Performance",0.0140295675250693
+"17Networks_LH_ContA_PFClv_1","ContA","Control","Performance",0.0278366726629201
+"17Networks_LH_ContA_PFClv_2","ContA","Control","Performance",0.0285207883542241
+"17Networks_LH_ContA_PFCl_1","ContA","Control","Performance",0.0414218526137909
+"17Networks_LH_ContA_PFCl_2","ContA","Control","Performance",0.0466050251051167
+"17Networks_LH_ContA_PFCl_3","ContA","Control","Performance",0.0051244661509236
+"17Networks_LH_ContA_Cingm_1","ContA","Control","Performance",-0.0459080382793272
+"17Networks_LH_ContB_Temp_1","ContB","Control","Performance",-0.00427480439715795
+"17Networks_LH_ContB_Temp_2","ContB","Control","Performance",-0.00132318069152869
+"17Networks_LH_ContB_IPL_1","ContB","Control","Performance",2.07784632552387e-05
+"17Networks_LH_ContB_IPL_2","ContB","Control","Performance",0.00118170593525712
+"17Networks_LH_ContB_IPL_3","ContB","Control","Performance",0.0059694824754443
+"17Networks_LH_ContB_PFCd_1","ContB","Control","Performance",0.00127798886121869
+"17Networks_LH_ContB_PFClv_1","ContB","Control","Performance",-0.000801221753396413
+"17Networks_LH_ContB_PFClv_2","ContB","Control","Performance",-0.00136361831117455
+"17Networks_LH_ContB_PFClv_3","ContB","Control","Performance",0.000512726338194165
+"17Networks_LH_ContB_PFCmp_1","ContB","Control","Performance",-0.00337774052060965
+"17Networks_LH_ContC_pCun_1","ContC","Control","Performance",0.00140342614246966
+"17Networks_LH_ContC_pCun_2","ContC","Control","Performance",0.000466848810434382
+"17Networks_LH_ContC_pCun_3","ContC","Control","Performance",0.00154118848783031
+"17Networks_LH_ContC_Cingp_1","ContC","Control","Performance",0.00174988558612893
+"17Networks_LH_ContC_Cingp_2","ContC","Control","Performance",0.0016359189827541
+"17Networks_LH_DefaultA_IPL_1","DefaultA","Default","Performance",-0.0113290145386931
+"17Networks_LH_DefaultA_IPL_2","DefaultA","Default","Performance",0.00440030980974453
+"17Networks_LH_DefaultA_PFCd_1","DefaultA","Default","Performance",-0.00411771186255454
+"17Networks_LH_DefaultA_PFCd_2","DefaultA","Default","Performance",0.00296885598016012
+"17Networks_LH_DefaultA_PFCd_3","DefaultA","Default","Performance",-0.00110304389703634
+"17Networks_LH_DefaultA_pCunPCC_1","DefaultA","Default","Performance",0.0132735432239196
+"17Networks_LH_DefaultA_pCunPCC_2","DefaultA","Default","Performance",0.0316601623944162
+"17Networks_LH_DefaultA_pCunPCC_3","DefaultA","Default","Performance",0.000748858636087288
+"17Networks_LH_DefaultA_pCunPCC_4","DefaultA","Default","Performance",0.0040469321713427
+"17Networks_LH_DefaultA_pCunPCC_5","DefaultA","Default","Performance",0.00772909745967477
+"17Networks_LH_DefaultA_pCunPCC_6","DefaultA","Default","Performance",0.0160010114058906
+"17Networks_LH_DefaultA_pCunPCC_7","DefaultA","Default","Performance",0.021829220595992
+"17Networks_LH_DefaultA_PFCm_1","DefaultA","Default","Performance",-0.0114071063789234
+"17Networks_LH_DefaultA_PFCm_2","DefaultA","Default","Performance",-0.00433670191784321
+"17Networks_LH_DefaultA_PFCm_3","DefaultA","Default","Performance",-0.0116709952367013
+"17Networks_LH_DefaultA_PFCm_4","DefaultA","Default","Performance",-0.0276045944480213
+"17Networks_LH_DefaultA_PFCm_5","DefaultA","Default","Performance",0.00145381075775753
+"17Networks_LH_DefaultA_PFCm_6","DefaultA","Default","Performance",-0.012374505832429
+"17Networks_LH_DefaultB_Temp_1","DefaultB","Default","Performance",-1.01021279841516e-10
+"17Networks_LH_DefaultB_Temp_2","DefaultB","Default","Performance",-1.05789607944642e-11
+"17Networks_LH_DefaultB_Temp_3","DefaultB","Default","Performance",-4.63229600688103e-11
+"17Networks_LH_DefaultB_Temp_4","DefaultB","Default","Performance",-1.92637756270634e-11
+"17Networks_LH_DefaultB_Temp_5","DefaultB","Default","Performance",1.05021262256442e-11
+"17Networks_LH_DefaultB_Temp_6","DefaultB","Default","Performance",-2.11899582980182e-11
+"17Networks_LH_DefaultB_IPL_1","DefaultB","Default","Performance",-6.76134353833021e-11
+"17Networks_LH_DefaultB_IPL_2","DefaultB","Default","Performance",-7.44942220620684e-11
+"17Networks_LH_DefaultB_PFCd_1","DefaultB","Default","Performance",-1.0894984912569e-11
+"17Networks_LH_DefaultB_PFCd_2","DefaultB","Default","Performance",-1.62228854966265e-11
+"17Networks_LH_DefaultB_PFCd_3","DefaultB","Default","Performance",-8.21544171132754e-11
+"17Networks_LH_DefaultB_PFCd_4","DefaultB","Default","Performance",-5.24120158597335e-12
+"17Networks_LH_DefaultB_PFCd_5","DefaultB","Default","Performance",-2.7112692116603e-11
+"17Networks_LH_DefaultB_PFCd_6","DefaultB","Default","Performance",-9.61873833692668e-12
+"17Networks_LH_DefaultB_PFCl_1","DefaultB","Default","Performance",-9.78861471316503e-12
+"17Networks_LH_DefaultB_PFCl_2","DefaultB","Default","Performance",1.14469170432496e-10
+"17Networks_LH_DefaultB_PFCv_1","DefaultB","Default","Performance",1.81721548665223e-11
+"17Networks_LH_DefaultB_PFCv_2","DefaultB","Default","Performance",5.94239557289431e-12
+"17Networks_LH_DefaultB_PFCv_3","DefaultB","Default","Performance",-4.73433949724919e-12
+"17Networks_LH_DefaultB_PFCv_4","DefaultB","Default","Performance",5.95918324453907e-11
+"17Networks_LH_DefaultB_PFCv_5","DefaultB","Default","Performance",-3.0159925320832e-11
+"17Networks_LH_DefaultC_IPL_1","DefaultC","Default","Performance",2.3644020710388e-05
+"17Networks_LH_DefaultC_Rsp_1","DefaultC","Default","Performance",-1.39498435096739e-05
+"17Networks_LH_DefaultC_Rsp_2","DefaultC","Default","Performance",4.47034295790956e-06
+"17Networks_LH_DefaultC_Rsp_3","DefaultC","Default","Performance",-1.43975770572801e-05
+"17Networks_LH_DefaultC_PHC_1","DefaultC","Default","Performance",-0.000111674571369494
+"17Networks_LH_DefaultC_PHC_2","DefaultC","Default","Performance",-2.19316460915433e-06
+"17Networks_LH_DefaultC_PHC_3","DefaultC","Default","Performance",-8.8178247454934e-06
+"17Networks_LH_TempPar_1","TempPar","TempPar","Performance",1.07623028169978e-13
+"17Networks_LH_TempPar_2","TempPar","TempPar","Performance",1.89662800110558e-13
+"17Networks_LH_TempPar_3","TempPar","TempPar","Performance",1.4205698097896e-13
+"17Networks_LH_TempPar_4","TempPar","TempPar","Performance",2.70914014575194e-14
+"17Networks_LH_TempPar_5","TempPar","TempPar","Performance",-2.63855255629342e-14
+"17Networks_LH_TempPar_6","TempPar","TempPar","Performance",1.15728332642463e-13
+"17Networks_RH_VisCent_ExStr_1","VisCent","Visual","Performance",6.04608500149052e-07
+"17Networks_RH_VisCent_ExStr_2","VisCent","Visual","Performance",-1.31757507522152e-06
+"17Networks_RH_VisCent_ExStr_3","VisCent","Visual","Performance",-2.30594785513464e-06
+"17Networks_RH_VisCent_ExStr_4","VisCent","Visual","Performance",-3.3362336226433e-06
+"17Networks_RH_VisCent_ExStr_5","VisCent","Visual","Performance",-5.22348202402711e-07
+"17Networks_RH_VisCent_ExStr_6","VisCent","Visual","Performance",-4.10120021573566e-06
+"17Networks_RH_VisCent_Striate_1","VisCent","Visual","Performance",-2.65977309287285e-06
+"17Networks_RH_VisCent_ExStr_7","VisCent","Visual","Performance",-1.05448738467707e-07
+"17Networks_RH_VisCent_ExStr_8","VisCent","Visual","Performance",-1.07465048566049e-06
+"17Networks_RH_VisCent_ExStr_9","VisCent","Visual","Performance",-1.31387009483941e-06
+"17Networks_RH_VisCent_ExStr_10","VisCent","Visual","Performance",-1.12135256549683e-06
+"17Networks_RH_VisCent_ExStr_11","VisCent","Visual","Performance",-6.11815272672676e-08
+"17Networks_RH_VisPeri_ExStrInf_1","VisPeri","Visual","Performance",-0.000124624935509373
+"17Networks_RH_VisPeri_ExStrInf_2","VisPeri","Visual","Performance",-0.00012032458175043
+"17Networks_RH_VisPeri_ExStrInf_3","VisPeri","Visual","Performance",-1.54793349637087e-05
+"17Networks_RH_VisPeri_ExStrInf_4","VisPeri","Visual","Performance",-7.37619012112147e-05
+"17Networks_RH_VisPeri_ExStrInf_5","VisPeri","Visual","Performance",-6.63909879487164e-05
+"17Networks_RH_VisPeri_StriCal_1","VisPeri","Visual","Performance",-7.46260867812933e-05
+"17Networks_RH_VisPeri_StriCal_2","VisPeri","Visual","Performance",-0.000183947125891826
+"17Networks_RH_VisPeri_ExStrSup_1","VisPeri","Visual","Performance",9.13751905149307e-06
+"17Networks_RH_VisPeri_ExStrSup_2","VisPeri","Visual","Performance",-1.53721676882999e-06
+"17Networks_RH_VisPeri_ExStrSup_3","VisPeri","Visual","Performance",-1.17792169588922e-05
+"17Networks_RH_VisPeri_ExStrSup_4","VisPeri","Visual","Performance",-1.62743754106824e-05
+"17Networks_RH_DorsAttnA_TempOcc_1","DorsAttnA","DorsAttn","Performance",-5.01939988345941e-06
+"17Networks_RH_DorsAttnA_TempOcc_2","DorsAttnA","DorsAttn","Performance",-1.39960914762678e-05
+"17Networks_RH_DorsAttnA_TempOcc_3","DorsAttnA","DorsAttn","Performance",-1.07756257134983e-05
+"17Networks_RH_DorsAttnA_ParOcc_1","DorsAttnA","DorsAttn","Performance",-1.1309937291395e-05
+"17Networks_RH_DorsAttnA_ParOcc_2","DorsAttnA","DorsAttn","Performance",-1.10697712665135e-05
+"17Networks_RH_DorsAttnA_ParOcc_3","DorsAttnA","DorsAttn","Performance",7.04551305677522e-06
+"17Networks_RH_DorsAttnA_SPL_1","DorsAttnA","DorsAttn","Performance",2.23863824519327e-06
+"17Networks_RH_DorsAttnA_SPL_2","DorsAttnA","DorsAttn","Performance",9.80420620574237e-06
+"17Networks_RH_DorsAttnA_SPL_3","DorsAttnA","DorsAttn","Performance",9.86426237287286e-06
+"17Networks_RH_DorsAttnA_SPL_4","DorsAttnA","DorsAttn","Performance",1.1939193657807e-05
+"17Networks_RH_DorsAttnA_SPL_5","DorsAttnA","DorsAttn","Performance",1.41755262187251e-05
+"17Networks_RH_DorsAttnA_SPL_6","DorsAttnA","DorsAttn","Performance",1.37914208063174e-06
+"17Networks_RH_DorsAttnA_SPL_7","DorsAttnA","DorsAttn","Performance",5.31290288440589e-06
+"17Networks_RH_DorsAttnA_SPL_8","DorsAttnA","DorsAttn","Performance",5.2618558494458e-07
+"17Networks_RH_DorsAttnB_TempOcc_1","DorsAttnB","DorsAttn","Performance",-0.00329697050775138
+"17Networks_RH_DorsAttnB_PostC_1","DorsAttnB","DorsAttn","Performance",-0.00583135648137677
+"17Networks_RH_DorsAttnB_PostC_2","DorsAttnB","DorsAttn","Performance",-0.00644359092984882
+"17Networks_RH_DorsAttnB_PostC_3","DorsAttnB","DorsAttn","Performance",0.000812712592237117
+"17Networks_RH_DorsAttnB_PostC_4","DorsAttnB","DorsAttn","Performance",-0.0039666158297212
+"17Networks_RH_DorsAttnB_PostC_5","DorsAttnB","DorsAttn","Performance",-0.00263787676925023
+"17Networks_RH_DorsAttnB_PostC_6","DorsAttnB","DorsAttn","Performance",0.00226381800695096
+"17Networks_RH_DorsAttnB_PostC_7","DorsAttnB","DorsAttn","Performance",-0.00263082371216862
+"17Networks_RH_DorsAttnB_PostC_8","DorsAttnB","DorsAttn","Performance",-0.00110646786263207
+"17Networks_RH_DorsAttnB_FEF_1","DorsAttnB","DorsAttn","Performance",0.00155768944904178
+"17Networks_RH_DorsAttnB_FEF_2","DorsAttnB","DorsAttn","Performance",0.00271097946960846
+"17Networks_RH_DorsAttnB_FEF_3","DorsAttnB","DorsAttn","Performance",-0.00321963544782823
+"17Networks_RH_SalVentAttnA_ParOper_1","SalVentAttnA","VentAttn","Performance",-6.18325220859159e-08
+"17Networks_RH_SalVentAttnA_ParOper_2","SalVentAttnA","VentAttn","Performance",-3.89087514386003e-08
+"17Networks_RH_SalVentAttnA_ParOper_3","SalVentAttnA","VentAttn","Performance",-5.62578507256072e-08
+"17Networks_RH_SalVentAttnA_PrC_1","SalVentAttnA","VentAttn","Performance",3.77752042892862e-08
+"17Networks_RH_SalVentAttnA_Ins_1","SalVentAttnA","VentAttn","Performance",-3.27146560246055e-08
+"17Networks_RH_SalVentAttnA_Ins_2","SalVentAttnA","VentAttn","Performance",-3.12289194713326e-08
+"17Networks_RH_SalVentAttnA_Ins_3","SalVentAttnA","VentAttn","Performance",5.92763544725134e-09
+"17Networks_RH_SalVentAttnA_Ins_4","SalVentAttnA","VentAttn","Performance",-3.73969523458192e-09
+"17Networks_RH_SalVentAttnA_FrOper_1","SalVentAttnA","VentAttn","Performance",-2.57075006888166e-08
+"17Networks_RH_SalVentAttnA_FrOper_2","SalVentAttnA","VentAttn","Performance",-5.19066878584352e-08
+"17Networks_RH_SalVentAttnA_FrOper_3","SalVentAttnA","VentAttn","Performance",-8.40931693527028e-09
+"17Networks_RH_SalVentAttnA_FrMed_1","SalVentAttnA","VentAttn","Performance",-5.02891845457656e-08
+"17Networks_RH_SalVentAttnA_ParMed_1","SalVentAttnA","VentAttn","Performance",1.01718646386618e-08
+"17Networks_RH_SalVentAttnA_ParMed_2","SalVentAttnA","VentAttn","Performance",-2.56285870238804e-08
+"17Networks_RH_SalVentAttnA_FrMed_2","SalVentAttnA","VentAttn","Performance",1.59514732303732e-09
+"17Networks_RH_SalVentAttnA_ParMed_3","SalVentAttnA","VentAttn","Performance",-1.10484370477196e-08
+"17Networks_RH_SalVentAttnA_ParMed_4","SalVentAttnA","VentAttn","Performance",-2.15742714066196e-08
+"17Networks_RH_SalVentAttnA_FrMed_3","SalVentAttnA","VentAttn","Performance",-3.98631256021872e-08
+"17Networks_RH_SalVentAttnA_FrMed_4","SalVentAttnA","VentAttn","Performance",-2.67416851817845e-08
+"17Networks_RH_SalVentAttnB_IPL_1","SalVentAttnB","VentAttn","Performance",-0.0560426932366331
+"17Networks_RH_SalVentAttnB_PFClv_1","SalVentAttnB","VentAttn","Performance",0.0114854581915196
+"17Networks_RH_SalVentAttnB_PFCl_1","SalVentAttnB","VentAttn","Performance",-0.0024226417802838
+"17Networks_RH_SalVentAttnB_PFCl_2","SalVentAttnB","VentAttn","Performance",8.43167772604575e-05
+"17Networks_RH_SalVentAttnB_PFCl_3","SalVentAttnB","VentAttn","Performance",-0.0150369339680562
+"17Networks_RH_SalVentAttnB_Ins_1","SalVentAttnB","VentAttn","Performance",-0.0165233143506517
+"17Networks_RH_SalVentAttnB_Ins_2","SalVentAttnB","VentAttn","Performance",-0.00061880932580707
+"17Networks_RH_SalVentAttnB_PFCmp_1","SalVentAttnB","VentAttn","Performance",-0.0388611204692759
+"17Networks_RH_SalVentAttnB_PFCmp_2","SalVentAttnB","VentAttn","Performance",-0.0290323054716953
+"17Networks_RH_LimbicB_OFC_1","LimbicB","Limbic","Performance",-1.32335668825281e-06
+"17Networks_RH_LimbicB_OFC_2","LimbicB","Limbic","Performance",-3.69064625779758e-07
+"17Networks_RH_LimbicB_OFC_3","LimbicB","Limbic","Performance",3.07458873439215e-07
+"17Networks_RH_LimbicB_OFC_4","LimbicB","Limbic","Performance",-7.84807820898734e-07
+"17Networks_RH_LimbicB_OFC_5","LimbicB","Limbic","Performance",-5.17832713013671e-07
+"17Networks_RH_LimbicB_OFC_6","LimbicB","Limbic","Performance",6.1774861335545e-07
+"17Networks_RH_LimbicA_TempPole_1","LimbicA","Limbic","Performance",-5.30234874799442e-07
+"17Networks_RH_LimbicA_TempPole_2","LimbicA","Limbic","Performance",3.60321992366281e-07
+"17Networks_RH_LimbicA_TempPole_3","LimbicA","Limbic","Performance",1.37102669885624e-07
+"17Networks_RH_LimbicA_TempPole_4","LimbicA","Limbic","Performance",-6.52249915330529e-07
+"17Networks_RH_LimbicA_TempPole_5","LimbicA","Limbic","Performance",-1.04844199692635e-06
+"17Networks_RH_LimbicA_TempPole_6","LimbicA","Limbic","Performance",-1.41708087174146e-06
+"17Networks_RH_ContA_IPS_1","ContA","Control","Performance",0.00289591066591506
+"17Networks_RH_ContA_IPS_2","ContA","Control","Performance",-0.0375957727424095
+"17Networks_RH_ContA_IPS_3","ContA","Control","Performance",-0.0147976552058334
+"17Networks_RH_ContA_IPS_4","ContA","Control","Performance",0.00139525435390812
+"17Networks_RH_ContA_PFCd_1","ContA","Control","Performance",0.0104010932322708
+"17Networks_RH_ContA_PFCl_1","ContA","Control","Performance",0.0918487467756177
+"17Networks_RH_ContA_PFCl_2","ContA","Control","Performance",0.0923887417263304
+"17Networks_RH_ContA_PFCl_3","ContA","Control","Performance",0.00487231985699438
+"17Networks_RH_ContA_PFCl_4","ContA","Control","Performance",0.00822787900995642
+"17Networks_RH_ContA_PFCl_5","ContA","Control","Performance",0.0542057979218171
+"17Networks_RH_ContA_Cingm_1","ContA","Control","Performance",0.0110951682977482
+"17Networks_RH_ContB_Temp_1","ContB","Control","Performance",-0.00522573350214366
+"17Networks_RH_ContB_Temp_2","ContB","Control","Performance",-0.000311669587990035
+"17Networks_RH_ContB_IPL_1","ContB","Control","Performance",-0.00475196471758418
+"17Networks_RH_ContB_IPL_2","ContB","Control","Performance",-0.0034115333092491
+"17Networks_RH_ContB_IPL_3","ContB","Control","Performance",-0.00370151080741557
+"17Networks_RH_ContB_IPL_4","ContB","Control","Performance",-0.00366053501959359
+"17Networks_RH_ContB_PFCld_1","ContB","Control","Performance",-0.00336092289086264
+"17Networks_RH_ContB_PFCld_2","ContB","Control","Performance",-0.000660427035714322
+"17Networks_RH_ContB_PFCld_3","ContB","Control","Performance",-9.51270258101457e-05
+"17Networks_RH_ContB_PFCld_4","ContB","Control","Performance",0.00228295966593838
+"17Networks_RH_ContB_PFClv_1","ContB","Control","Performance",0.00233378945122441
+"17Networks_RH_ContB_PFClv_2","ContB","Control","Performance",-0.00270517077156668
+"17Networks_RH_ContB_PFClv_3","ContB","Control","Performance",-5.72716927919277e-05
+"17Networks_RH_ContB_PFClv_4","ContB","Control","Performance",-0.00333073181269261
+"17Networks_RH_ContB_PFCmp_1","ContB","Control","Performance",-0.00356124682149576
+"17Networks_RH_ContC_pCun_1","ContC","Control","Performance",0.00327100136801763
+"17Networks_RH_ContC_pCun_2","ContC","Control","Performance",0.00119424154157561
+"17Networks_RH_ContC_pCun_3","ContC","Control","Performance",0.000928274403057809
+"17Networks_RH_ContC_pCun_4","ContC","Control","Performance",0.00125213162722544
+"17Networks_RH_ContC_pCun_5","ContC","Control","Performance",0.000499977902921588
+"17Networks_RH_ContC_Cingp_1","ContC","Control","Performance",0.00213462395156704
+"17Networks_RH_ContC_Cingp_2","ContC","Control","Performance",-0.000115831218253518
+"17Networks_RH_DefaultA_Temp_1","DefaultA","Default","Performance",-0.002113791759275
+"17Networks_RH_DefaultA_IPL_1","DefaultA","Default","Performance",-0.0132399071248459
+"17Networks_RH_DefaultA_IPL_2","DefaultA","Default","Performance",-0.00551726382682147
+"17Networks_RH_DefaultA_PFCd_1","DefaultA","Default","Performance",-0.001227044532805
+"17Networks_RH_DefaultA_PFCd_2","DefaultA","Default","Performance",0.0146495831811169
+"17Networks_RH_DefaultA_pCunPCC_1","DefaultA","Default","Performance",0.026696870837041
+"17Networks_RH_DefaultA_pCunPCC_2","DefaultA","Default","Performance",0.0456150452671867
+"17Networks_RH_DefaultA_pCunPCC_3","DefaultA","Default","Performance",0.0337236855381812
+"17Networks_RH_DefaultA_pCunPCC_4","DefaultA","Default","Performance",-0.00389951820404728
+"17Networks_RH_DefaultA_pCunPCC_5","DefaultA","Default","Performance",0.0282971967909048
+"17Networks_RH_DefaultA_PFCm_1","DefaultA","Default","Performance",0.00178383985657909
+"17Networks_RH_DefaultA_PFCm_2","DefaultA","Default","Performance",0.0166572793053579
+"17Networks_RH_DefaultA_PFCm_3","DefaultA","Default","Performance",-0.00660457919523232
+"17Networks_RH_DefaultA_PFCm_4","DefaultA","Default","Performance",-0.00124081786155327
+"17Networks_RH_DefaultA_PFCm_5","DefaultA","Default","Performance",-0.0107057241287048
+"17Networks_RH_DefaultA_PFCm_6","DefaultA","Default","Performance",-0.00337815455976069
+"17Networks_RH_DefaultB_Temp_1","DefaultB","Default","Performance",4.04855301862471e-11
+"17Networks_RH_DefaultB_Temp_2","DefaultB","Default","Performance",-1.25398344944592e-10
+"17Networks_RH_DefaultB_AntTemp_1","DefaultB","Default","Performance",5.02122893313326e-11
+"17Networks_RH_DefaultB_PFCd_1","DefaultB","Default","Performance",-7.67339994889774e-11
+"17Networks_RH_DefaultB_PFCd_2","DefaultB","Default","Performance",1.34976867971933e-11
+"17Networks_RH_DefaultB_PFCd_3","DefaultB","Default","Performance",-1.01273204549245e-10
+"17Networks_RH_DefaultB_PFCd_4","DefaultB","Default","Performance",-3.82997169184551e-11
+"17Networks_RH_DefaultB_PFCd_5","DefaultB","Default","Performance",7.97378502909624e-12
+"17Networks_RH_DefaultB_PFCv_1","DefaultB","Default","Performance",3.8810252915319e-11
+"17Networks_RH_DefaultB_PFCv_2","DefaultB","Default","Performance",3.29820693335357e-11
+"17Networks_RH_DefaultB_PFCv_3","DefaultB","Default","Performance",-1.79970973447956e-11
+"17Networks_RH_DefaultC_IPL_1","DefaultC","Default","Performance",-3.69558815301618e-05
+"17Networks_RH_DefaultC_IPL_2","DefaultC","Default","Performance",-1.83856894334298e-05
+"17Networks_RH_DefaultC_Rsp_1","DefaultC","Default","Performance",-2.02010342692457e-05
+"17Networks_RH_DefaultC_Rsp_2","DefaultC","Default","Performance",6.34122124994595e-06
+"17Networks_RH_DefaultC_PHC_1","DefaultC","Default","Performance",-3.70155184931599e-05
+"17Networks_RH_DefaultC_PHC_2","DefaultC","Default","Performance",2.04438564722667e-05
+"17Networks_RH_TempPar_1","TempPar","TempPar","Performance",1.14235621993614e-13
+"17Networks_RH_TempPar_2","TempPar","TempPar","Performance",1.74884530635871e-13
+"17Networks_RH_TempPar_3","TempPar","TempPar","Performance",5.05760855518427e-14
+"17Networks_RH_TempPar_4","TempPar","TempPar","Performance",-6.87014035146625e-14
+"17Networks_RH_TempPar_5","TempPar","TempPar","Performance",3.84866929192413e-16
+"17Networks_RH_TempPar_6","TempPar","TempPar","Performance",-1.07370258732415e-13
+"17Networks_RH_TempPar_7","TempPar","TempPar","Performance",6.92821279748372e-15
+"17Networks_RH_TempPar_8","TempPar","TempPar","Performance",8.01036364467389e-14
+"17Networks_RH_TempPar_9","TempPar","TempPar","Performance",-9.32074322172224e-14
+"17Networks_RH_TempPar_10","TempPar","TempPar","Performance",-9.19876115756779e-14
+"Left Caudate","Subcortex","Subcortex","Performance",-0.0544601016069884
+"Left Putamen","Subcortex","Subcortex","Performance",-0.0419495742335172
+"Left Pallidum","Subcortex","Subcortex","Performance",-0.0150330493890611
+"Left Accumbens","Subcortex","Subcortex","Performance",0.0196233461575692
+"Right Caudate","Subcortex","Subcortex","Performance",-0.0234892915554251
+"Right Putamen","Subcortex","Subcortex","Performance",-0.0606025148689484
+"Right Pallidum","Subcortex","Subcortex","Performance",-0.0352808753212186
+"Right Accumbens","Subcortex","Subcortex","Performance",-0.154368690671809
+"Left I-IV","Cerebellum","Cerebellum","Performance",0.00015632905371309
+"Right I-IV","Cerebellum","Cerebellum","Performance",9.72304338563271e-05
+"Left V","Cerebellum","Cerebellum","Performance",1.78822538123332e-05
+"Right V","Cerebellum","Cerebellum","Performance",-0.000108707828241997
+"Left VI","Cerebellum","Cerebellum","Performance",-0.000126638033502151
+"Vermis VI","Cerebellum","Cerebellum","Performance",9.51151646779165e-05
+"Right VI","Cerebellum","Cerebellum","Performance",1.22865774532253e-05
+"Left Crus I","Cerebellum","Cerebellum","Performance",-0.000204923179032954
+"Vermis Crus I","Cerebellum","Cerebellum","Performance",0.000139033328756264
+"Right Crus I","Cerebellum","Cerebellum","Performance",-0.000153506140075332
+"Left Crus II","Cerebellum","Cerebellum","Performance",-0.000110134997156096
+"Vermis Crus II","Cerebellum","Cerebellum","Performance",-4.14480802225564e-05
+"Right Crus II","Cerebellum","Cerebellum","Performance",-0.000117767690248147
+"Left VIIb","Cerebellum","Cerebellum","Performance",-0.0001195169731022
+"Vermis VIIb","Cerebellum","Cerebellum","Performance",4.66514468431816e-05
+"Right VIIb","Cerebellum","Cerebellum","Performance",-5.55818814881457e-05
+"Left VIIIa","Cerebellum","Cerebellum","Performance",-0.000129543196113852
+"Vermis VIIIa","Cerebellum","Cerebellum","Performance",-4.0687088953448e-05
+"Right VIIIa","Cerebellum","Cerebellum","Performance",-0.000211067979724457
+"Left VIIIb","Cerebellum","Cerebellum","Performance",-9.36676419182542e-05
+"Vermis VIIIb","Cerebellum","Cerebellum","Performance",-7.52844517555814e-05
+"Right VIIIb","Cerebellum","Cerebellum","Performance",-0.000226645640480908
+"Left IX","Cerebellum","Cerebellum","Performance",6.42545418112283e-05
+"Vermis IX","Cerebellum","Cerebellum","Performance",-8.06273639194794e-05
+"Right IX","Cerebellum","Cerebellum","Performance",-4.64671592186519e-05
+"Left X","Cerebellum","Cerebellum","Performance",-0.000262883008486299
+"Vermis X","Cerebellum","Cerebellum","Performance",-0.000118703257003999
+"Right X","Cerebellum","Cerebellum","Performance",-0.000234166592132134
+"17Networks_LH_VisCent_ExStr_1","VisCent","Visual","Late Explicit",-0.00725242007097058
+"17Networks_LH_VisCent_ExStr_2","VisCent","Visual","Late Explicit",0.00963638014699073
+"17Networks_LH_VisCent_ExStr_3","VisCent","Visual","Late Explicit",0.0105107716258084
+"17Networks_LH_VisCent_ExStr_4","VisCent","Visual","Late Explicit",0.0183696562176519
+"17Networks_LH_VisCent_ExStr_5","VisCent","Visual","Late Explicit",0.0115213305036652
+"17Networks_LH_VisCent_ExStr_6","VisCent","Visual","Late Explicit",0.0100670990008362
+"17Networks_LH_VisCent_Striate_1","VisCent","Visual","Late Explicit",0.0262598246594328
+"17Networks_LH_VisCent_ExStr_7","VisCent","Visual","Late Explicit",0.0104090538306815
+"17Networks_LH_VisCent_ExStr_8","VisCent","Visual","Late Explicit",0.00651668541979948
+"17Networks_LH_VisCent_ExStr_9","VisCent","Visual","Late Explicit",0.00757868220913512
+"17Networks_LH_VisCent_ExStr_10","VisCent","Visual","Late Explicit",0.0069307429927365
+"17Networks_LH_VisCent_ExStr_11","VisCent","Visual","Late Explicit",-0.00340909834077641
+"17Networks_LH_VisPeri_ExStrInf_1","VisPeri","Visual","Late Explicit",0.0121873007557187
+"17Networks_LH_VisPeri_ExStrInf_2","VisPeri","Visual","Late Explicit",0.0049714793177367
+"17Networks_LH_VisPeri_ExStrInf_3","VisPeri","Visual","Late Explicit",0.00407043752957329
+"17Networks_LH_VisPeri_ExStrInf_4","VisPeri","Visual","Late Explicit",-0.00369323526608663
+"17Networks_LH_VisPeri_ExStrInf_5","VisPeri","Visual","Late Explicit",-0.00203416063242699
+"17Networks_LH_VisPeri_StriCal_1","VisPeri","Visual","Late Explicit",0.0248498322454327
+"17Networks_LH_VisPeri_StriCal_2","VisPeri","Visual","Late Explicit",0.00168420255256533
+"17Networks_LH_VisPeri_ExStrSup_1","VisPeri","Visual","Late Explicit",0.00362000583173449
+"17Networks_LH_VisPeri_ExStrSup_2","VisPeri","Visual","Late Explicit",0.00772919070189824
+"17Networks_LH_VisPeri_ExStrSup_3","VisPeri","Visual","Late Explicit",-0.00810405700712965
+"17Networks_LH_VisPeri_ExStrSup_4","VisPeri","Visual","Late Explicit",0.00527519837316291
+"17Networks_LH_VisPeri_ExStrSup_5","VisPeri","Visual","Late Explicit",0.0101972221800949
+"17Networks_LH_DorsAttnA_TempOcc_1","DorsAttnA","DorsAttn","Late Explicit",-0.0020968045381248
+"17Networks_LH_DorsAttnA_TempOcc_2","DorsAttnA","DorsAttn","Late Explicit",-0.0207100371473345
+"17Networks_LH_DorsAttnA_TempOcc_3","DorsAttnA","DorsAttn","Late Explicit",-0.0211784943049382
+"17Networks_LH_DorsAttnA_TempOcc_4","DorsAttnA","DorsAttn","Late Explicit",0.00433069399177542
+"17Networks_LH_DorsAttnA_ParOcc_1","DorsAttnA","DorsAttn","Late Explicit",0.00549329252992096
+"17Networks_LH_DorsAttnA_ParOcc_2","DorsAttnA","DorsAttn","Late Explicit",0.012639275794867
+"17Networks_LH_DorsAttnA_SPL_1","DorsAttnA","DorsAttn","Late Explicit",0.0158010940351468
+"17Networks_LH_DorsAttnA_SPL_2","DorsAttnA","DorsAttn","Late Explicit",0.00595283012792449
+"17Networks_LH_DorsAttnA_SPL_3","DorsAttnA","DorsAttn","Late Explicit",-0.00749238436463219
+"17Networks_LH_DorsAttnA_SPL_4","DorsAttnA","DorsAttn","Late Explicit",-0.00759486995844984
+"17Networks_LH_DorsAttnA_SPL_5","DorsAttnA","DorsAttn","Late Explicit",0.00376557416021058
+"17Networks_LH_DorsAttnA_SPL_6","DorsAttnA","DorsAttn","Late Explicit",-0.0172885233489305
+"17Networks_LH_DorsAttnA_SPL_7","DorsAttnA","DorsAttn","Late Explicit",-0.0228760378295773
+"17Networks_LH_DorsAttnB_PostC_1","DorsAttnB","DorsAttn","Late Explicit",0.0190946791929079
+"17Networks_LH_DorsAttnB_PostC_2","DorsAttnB","DorsAttn","Late Explicit",0.0714346103887474
+"17Networks_LH_DorsAttnB_PostC_3","DorsAttnB","DorsAttn","Late Explicit",0.00778480031999957
+"17Networks_LH_DorsAttnB_PostC_4","DorsAttnB","DorsAttn","Late Explicit",-0.0278947741258962
+"17Networks_LH_DorsAttnB_PostC_5","DorsAttnB","DorsAttn","Late Explicit",-0.0332596095415569
+"17Networks_LH_DorsAttnB_PostC_6","DorsAttnB","DorsAttn","Late Explicit",-0.0404518962000821
+"17Networks_LH_DorsAttnB_PostC_7","DorsAttnB","DorsAttn","Late Explicit",-0.0251627601466964
+"17Networks_LH_DorsAttnB_PostC_8","DorsAttnB","DorsAttn","Late Explicit",0.0149740354112011
+"17Networks_LH_DorsAttnB_PostC_9","DorsAttnB","DorsAttn","Late Explicit",0.0283862067180976
+"17Networks_LH_DorsAttnB_FEF_1","DorsAttnB","DorsAttn","Late Explicit",0.0178355575638604
+"17Networks_LH_DorsAttnB_FEF_2","DorsAttnB","DorsAttn","Late Explicit",0.0415801961642721
+"17Networks_LH_DorsAttnB_FEF_3","DorsAttnB","DorsAttn","Late Explicit",0.0249015590048647
+"17Networks_LH_DorsAttnB_PrCv_1","DorsAttnB","DorsAttn","Late Explicit",0.0819366374956247
+"17Networks_LH_SalVentAttnA_ParOper_1","SalVentAttnA","VentAttn","Late Explicit",-0.0209143866155227
+"17Networks_LH_SalVentAttnA_ParOper_2","SalVentAttnA","VentAttn","Late Explicit",0.0604962416145818
+"17Networks_LH_SalVentAttnA_ParOper_3","SalVentAttnA","VentAttn","Late Explicit",0.00708046096759318
+"17Networks_LH_SalVentAttnA_Ins_1","SalVentAttnA","VentAttn","Late Explicit",-0.00349203097409521
+"17Networks_LH_SalVentAttnA_Ins_2","SalVentAttnA","VentAttn","Late Explicit",0.0147941204517191
+"17Networks_LH_SalVentAttnA_Ins_3","SalVentAttnA","VentAttn","Late Explicit",0.00931941761814182
+"17Networks_LH_SalVentAttnA_Ins_4","SalVentAttnA","VentAttn","Late Explicit",-0.00720475330388404
+"17Networks_LH_SalVentAttnA_FrOper_1","SalVentAttnA","VentAttn","Late Explicit",-0.0130173456810653
+"17Networks_LH_SalVentAttnA_FrOper_2","SalVentAttnA","VentAttn","Late Explicit",-0.0255682356186394
+"17Networks_LH_SalVentAttnA_ParMed_1","SalVentAttnA","VentAttn","Late Explicit",0.0435594485057196
+"17Networks_LH_SalVentAttnA_ParMed_2","SalVentAttnA","VentAttn","Late Explicit",-0.0244279769562288
+"17Networks_LH_SalVentAttnA_ParMed_3","SalVentAttnA","VentAttn","Late Explicit",0.0127514334318152
+"17Networks_LH_SalVentAttnA_FrMed_1","SalVentAttnA","VentAttn","Late Explicit",-0.0397134676539094
+"17Networks_LH_SalVentAttnA_FrMed_2","SalVentAttnA","VentAttn","Late Explicit",0.0552437188545043
+"17Networks_LH_SalVentAttnA_FrMed_3","SalVentAttnA","VentAttn","Late Explicit",0.0226982510640333
+"17Networks_LH_SalVentAttnB_PFCl_1","SalVentAttnB","VentAttn","Late Explicit",-0.00196700780105753
+"17Networks_LH_SalVentAttnB_PFCl_2","SalVentAttnB","VentAttn","Late Explicit",-0.00335823291054575
+"17Networks_LH_SalVentAttnB_PFCl_3","SalVentAttnB","VentAttn","Late Explicit",0.00349241910531216
+"17Networks_LH_SalVentAttnB_Ins_1","SalVentAttnB","VentAttn","Late Explicit",-0.00309158161083249
+"17Networks_LH_SalVentAttnB_Ins_2","SalVentAttnB","VentAttn","Late Explicit",0.00363653405730312
+"17Networks_LH_SalVentAttnB_Ins_3","SalVentAttnB","VentAttn","Late Explicit",-0.00436490483323879
+"17Networks_LH_SalVentAttnB_OFC_1","SalVentAttnB","VentAttn","Late Explicit",0.00123227848759217
+"17Networks_LH_SalVentAttnB_PFCmp_1","SalVentAttnB","VentAttn","Late Explicit",-0.00351405046472958
+"17Networks_LH_LimbicB_OFC_1","LimbicB","Limbic","Late Explicit",0.0103375087925208
+"17Networks_LH_LimbicB_OFC_2","LimbicB","Limbic","Late Explicit",0.00513840982355232
+"17Networks_LH_LimbicB_OFC_3","LimbicB","Limbic","Late Explicit",0.010797026625912
+"17Networks_LH_LimbicB_OFC_4","LimbicB","Limbic","Late Explicit",0.0189484915633208
+"17Networks_LH_LimbicB_OFC_5","LimbicB","Limbic","Late Explicit",-0.00181385284508658
+"17Networks_LH_LimbicA_TempPole_1","LimbicA","Limbic","Late Explicit",0.00546188554513933
+"17Networks_LH_LimbicA_TempPole_2","LimbicA","Limbic","Late Explicit",-0.00890431071037476
+"17Networks_LH_LimbicA_TempPole_3","LimbicA","Limbic","Late Explicit",0.0103436218588966
+"17Networks_LH_LimbicA_TempPole_4","LimbicA","Limbic","Late Explicit",0.00788901977164911
+"17Networks_LH_LimbicA_TempPole_5","LimbicA","Limbic","Late Explicit",0.010832358477829
+"17Networks_LH_LimbicA_TempPole_6","LimbicA","Limbic","Late Explicit",-0.00685506608710468
+"17Networks_LH_LimbicA_TempPole_7","LimbicA","Limbic","Late Explicit",-0.0126797226086799
+"17Networks_LH_ContA_Temp_1","ContA","Control","Late Explicit",-0.00178308538079169
+"17Networks_LH_ContA_IPS_1","ContA","Control","Late Explicit",0.00210308151536856
+"17Networks_LH_ContA_IPS_2","ContA","Control","Late Explicit",0.00574579573457547
+"17Networks_LH_ContA_IPS_3","ContA","Control","Late Explicit",-2.64776857660494e-05
+"17Networks_LH_ContA_IPS_4","ContA","Control","Late Explicit",0.000432615206319656
+"17Networks_LH_ContA_IPS_5","ContA","Control","Late Explicit",-0.00855246807989444
+"17Networks_LH_ContA_PFCd_1","ContA","Control","Late Explicit",-0.00636012741423194
+"17Networks_LH_ContA_PFClv_1","ContA","Control","Late Explicit",0.00348036833117488
+"17Networks_LH_ContA_PFClv_2","ContA","Control","Late Explicit",-0.00429382570443893
+"17Networks_LH_ContA_PFCl_1","ContA","Control","Late Explicit",0.000824771548462504
+"17Networks_LH_ContA_PFCl_2","ContA","Control","Late Explicit",0.000247853564188889
+"17Networks_LH_ContA_PFCl_3","ContA","Control","Late Explicit",0.00598401688065365
+"17Networks_LH_ContA_Cingm_1","ContA","Control","Late Explicit",-0.00343618896463726
+"17Networks_LH_ContB_Temp_1","ContB","Control","Late Explicit",0.000577178596622458
+"17Networks_LH_ContB_Temp_2","ContB","Control","Late Explicit",-0.00044857811157668
+"17Networks_LH_ContB_IPL_1","ContB","Control","Late Explicit",-0.000860372471376598
+"17Networks_LH_ContB_IPL_2","ContB","Control","Late Explicit",-0.000535748278839914
+"17Networks_LH_ContB_IPL_3","ContB","Control","Late Explicit",-0.000251214846911609
+"17Networks_LH_ContB_PFCd_1","ContB","Control","Late Explicit",-0.000490978508318521
+"17Networks_LH_ContB_PFClv_1","ContB","Control","Late Explicit",-0.000579323143471006
+"17Networks_LH_ContB_PFClv_2","ContB","Control","Late Explicit",-0.00149294551375292
+"17Networks_LH_ContB_PFClv_3","ContB","Control","Late Explicit",-0.00220187204128223
+"17Networks_LH_ContB_PFCmp_1","ContB","Control","Late Explicit",-0.000419385418530453
+"17Networks_LH_ContC_pCun_1","ContC","Control","Late Explicit",-0.00100445304693485
+"17Networks_LH_ContC_pCun_2","ContC","Control","Late Explicit",-0.00301743314025483
+"17Networks_LH_ContC_pCun_3","ContC","Control","Late Explicit",-0.00173808702075881
+"17Networks_LH_ContC_Cingp_1","ContC","Control","Late Explicit",-0.00104477447429164
+"17Networks_LH_ContC_Cingp_2","ContC","Control","Late Explicit",-0.00208656836157777
+"17Networks_LH_DefaultA_IPL_1","DefaultA","Default","Late Explicit",-0.000645715158618489
+"17Networks_LH_DefaultA_IPL_2","DefaultA","Default","Late Explicit",-0.000573394072727833
+"17Networks_LH_DefaultA_PFCd_1","DefaultA","Default","Late Explicit",-0.00244540346164373
+"17Networks_LH_DefaultA_PFCd_2","DefaultA","Default","Late Explicit",-0.00260259644506461
+"17Networks_LH_DefaultA_PFCd_3","DefaultA","Default","Late Explicit",0.0012498672851774
+"17Networks_LH_DefaultA_pCunPCC_1","DefaultA","Default","Late Explicit",-0.00206716427104272
+"17Networks_LH_DefaultA_pCunPCC_2","DefaultA","Default","Late Explicit",0.000477259161577502
+"17Networks_LH_DefaultA_pCunPCC_3","DefaultA","Default","Late Explicit",-0.00147646832705872
+"17Networks_LH_DefaultA_pCunPCC_4","DefaultA","Default","Late Explicit",-0.00186990748379915
+"17Networks_LH_DefaultA_pCunPCC_5","DefaultA","Default","Late Explicit",-0.0029054364863332
+"17Networks_LH_DefaultA_pCunPCC_6","DefaultA","Default","Late Explicit",-0.00326568428097552
+"17Networks_LH_DefaultA_pCunPCC_7","DefaultA","Default","Late Explicit",-0.004291197333808
+"17Networks_LH_DefaultA_PFCm_1","DefaultA","Default","Late Explicit",0.00014236282728079
+"17Networks_LH_DefaultA_PFCm_2","DefaultA","Default","Late Explicit",0.00191789602872693
+"17Networks_LH_DefaultA_PFCm_3","DefaultA","Default","Late Explicit",0.000396855266857235
+"17Networks_LH_DefaultA_PFCm_4","DefaultA","Default","Late Explicit",-0.00115043401871669
+"17Networks_LH_DefaultA_PFCm_5","DefaultA","Default","Late Explicit",-0.000972727022239955
+"17Networks_LH_DefaultA_PFCm_6","DefaultA","Default","Late Explicit",-0.00284831737102897
+"17Networks_LH_DefaultB_Temp_1","DefaultB","Default","Late Explicit",-0.000504005911593701
+"17Networks_LH_DefaultB_Temp_2","DefaultB","Default","Late Explicit",-0.000592862562712543
+"17Networks_LH_DefaultB_Temp_3","DefaultB","Default","Late Explicit",0.00174409382981773
+"17Networks_LH_DefaultB_Temp_4","DefaultB","Default","Late Explicit",-0.000498647128359699
+"17Networks_LH_DefaultB_Temp_5","DefaultB","Default","Late Explicit",-0.00256522120117625
+"17Networks_LH_DefaultB_Temp_6","DefaultB","Default","Late Explicit",-0.0010072682226021
+"17Networks_LH_DefaultB_IPL_1","DefaultB","Default","Late Explicit",0.000403687513263222
+"17Networks_LH_DefaultB_IPL_2","DefaultB","Default","Late Explicit",-0.00316645808435464
+"17Networks_LH_DefaultB_PFCd_1","DefaultB","Default","Late Explicit",-0.00279241616455347
+"17Networks_LH_DefaultB_PFCd_2","DefaultB","Default","Late Explicit",-0.00553879044965951
+"17Networks_LH_DefaultB_PFCd_3","DefaultB","Default","Late Explicit",-0.00331810618144457
+"17Networks_LH_DefaultB_PFCd_4","DefaultB","Default","Late Explicit",-0.00294986417037542
+"17Networks_LH_DefaultB_PFCd_5","DefaultB","Default","Late Explicit",-0.00530323734049243
+"17Networks_LH_DefaultB_PFCd_6","DefaultB","Default","Late Explicit",0.00286269065018161
+"17Networks_LH_DefaultB_PFCl_1","DefaultB","Default","Late Explicit",-0.00312480714175732
+"17Networks_LH_DefaultB_PFCl_2","DefaultB","Default","Late Explicit",-0.00338485360344787
+"17Networks_LH_DefaultB_PFCv_1","DefaultB","Default","Late Explicit",-0.0017264561314953
+"17Networks_LH_DefaultB_PFCv_2","DefaultB","Default","Late Explicit",-0.00283841952787954
+"17Networks_LH_DefaultB_PFCv_3","DefaultB","Default","Late Explicit",0.00153970192914932
+"17Networks_LH_DefaultB_PFCv_4","DefaultB","Default","Late Explicit",0.00381533226572367
+"17Networks_LH_DefaultB_PFCv_5","DefaultB","Default","Late Explicit",0.00240269035591802
+"17Networks_LH_DefaultC_IPL_1","DefaultC","Default","Late Explicit",-0.000653931362473879
+"17Networks_LH_DefaultC_Rsp_1","DefaultC","Default","Late Explicit",0.000898666506026991
+"17Networks_LH_DefaultC_Rsp_2","DefaultC","Default","Late Explicit",0.000629592258587511
+"17Networks_LH_DefaultC_Rsp_3","DefaultC","Default","Late Explicit",0.00159941635035023
+"17Networks_LH_DefaultC_PHC_1","DefaultC","Default","Late Explicit",-0.000465303614305966
+"17Networks_LH_DefaultC_PHC_2","DefaultC","Default","Late Explicit",-0.00298524658839247
+"17Networks_LH_DefaultC_PHC_3","DefaultC","Default","Late Explicit",0.000971460406936695
+"17Networks_LH_TempPar_1","TempPar","TempPar","Late Explicit",0.00100823679073022
+"17Networks_LH_TempPar_2","TempPar","TempPar","Late Explicit",0.00160982919223924
+"17Networks_LH_TempPar_3","TempPar","TempPar","Late Explicit",0.00202928218938288
+"17Networks_LH_TempPar_4","TempPar","TempPar","Late Explicit",-0.000491712344672472
+"17Networks_LH_TempPar_5","TempPar","TempPar","Late Explicit",0.000480409270675875
+"17Networks_LH_TempPar_6","TempPar","TempPar","Late Explicit",0.00283980210903745
+"17Networks_RH_VisCent_ExStr_1","VisCent","Visual","Late Explicit",-0.000884864678460478
+"17Networks_RH_VisCent_ExStr_2","VisCent","Visual","Late Explicit",0.0092136397158891
+"17Networks_RH_VisCent_ExStr_3","VisCent","Visual","Late Explicit",0.00491482135914881
+"17Networks_RH_VisCent_ExStr_4","VisCent","Visual","Late Explicit",-0.011876198340225
+"17Networks_RH_VisCent_ExStr_5","VisCent","Visual","Late Explicit",0.0181213288158556
+"17Networks_RH_VisCent_ExStr_6","VisCent","Visual","Late Explicit",-0.00223067707498637
+"17Networks_RH_VisCent_Striate_1","VisCent","Visual","Late Explicit",0.00685374150360545
+"17Networks_RH_VisCent_ExStr_7","VisCent","Visual","Late Explicit",0.0145410537564599
+"17Networks_RH_VisCent_ExStr_8","VisCent","Visual","Late Explicit",0.017089686597132
+"17Networks_RH_VisCent_ExStr_9","VisCent","Visual","Late Explicit",-0.00522850586374889
+"17Networks_RH_VisCent_ExStr_10","VisCent","Visual","Late Explicit",0.0105747614618037
+"17Networks_RH_VisCent_ExStr_11","VisCent","Visual","Late Explicit",0.0058941904476633
+"17Networks_RH_VisPeri_ExStrInf_1","VisPeri","Visual","Late Explicit",0.0304525422823606
+"17Networks_RH_VisPeri_ExStrInf_2","VisPeri","Visual","Late Explicit",-0.0038001471274081
+"17Networks_RH_VisPeri_ExStrInf_3","VisPeri","Visual","Late Explicit",0.0166581897443657
+"17Networks_RH_VisPeri_ExStrInf_4","VisPeri","Visual","Late Explicit",-0.00377005038512033
+"17Networks_RH_VisPeri_ExStrInf_5","VisPeri","Visual","Late Explicit",0.0057445327641095
+"17Networks_RH_VisPeri_StriCal_1","VisPeri","Visual","Late Explicit",0.00922506924058192
+"17Networks_RH_VisPeri_StriCal_2","VisPeri","Visual","Late Explicit",0.0124718029901164
+"17Networks_RH_VisPeri_ExStrSup_1","VisPeri","Visual","Late Explicit",0.00197490808574573
+"17Networks_RH_VisPeri_ExStrSup_2","VisPeri","Visual","Late Explicit",-0.00626272592258421
+"17Networks_RH_VisPeri_ExStrSup_3","VisPeri","Visual","Late Explicit",-0.011861096790483
+"17Networks_RH_VisPeri_ExStrSup_4","VisPeri","Visual","Late Explicit",0.00335692126989544
+"17Networks_RH_DorsAttnA_TempOcc_1","DorsAttnA","DorsAttn","Late Explicit",-0.00364466638015878
+"17Networks_RH_DorsAttnA_TempOcc_2","DorsAttnA","DorsAttn","Late Explicit",0.00753341307776766
+"17Networks_RH_DorsAttnA_TempOcc_3","DorsAttnA","DorsAttn","Late Explicit",0.0363746556605512
+"17Networks_RH_DorsAttnA_ParOcc_1","DorsAttnA","DorsAttn","Late Explicit",0.0346689832393543
+"17Networks_RH_DorsAttnA_ParOcc_2","DorsAttnA","DorsAttn","Late Explicit",0.0298198474440442
+"17Networks_RH_DorsAttnA_ParOcc_3","DorsAttnA","DorsAttn","Late Explicit",-0.00498292615352621
+"17Networks_RH_DorsAttnA_SPL_1","DorsAttnA","DorsAttn","Late Explicit",-0.00758904017999219
+"17Networks_RH_DorsAttnA_SPL_2","DorsAttnA","DorsAttn","Late Explicit",-0.0174387419684259
+"17Networks_RH_DorsAttnA_SPL_3","DorsAttnA","DorsAttn","Late Explicit",0.00479135355887449
+"17Networks_RH_DorsAttnA_SPL_4","DorsAttnA","DorsAttn","Late Explicit",0.00485061504967029
+"17Networks_RH_DorsAttnA_SPL_5","DorsAttnA","DorsAttn","Late Explicit",0.0010471920320593
+"17Networks_RH_DorsAttnA_SPL_6","DorsAttnA","DorsAttn","Late Explicit",0.0282296305404575
+"17Networks_RH_DorsAttnA_SPL_7","DorsAttnA","DorsAttn","Late Explicit",0.0266367626872531
+"17Networks_RH_DorsAttnA_SPL_8","DorsAttnA","DorsAttn","Late Explicit",0.00471106142639238
+"17Networks_RH_DorsAttnB_TempOcc_1","DorsAttnB","DorsAttn","Late Explicit",0.0596580053449401
+"17Networks_RH_DorsAttnB_PostC_1","DorsAttnB","DorsAttn","Late Explicit",0.0265803027795331
+"17Networks_RH_DorsAttnB_PostC_2","DorsAttnB","DorsAttn","Late Explicit",0.048230282943866
+"17Networks_RH_DorsAttnB_PostC_3","DorsAttnB","DorsAttn","Late Explicit",-0.00109658042525839
+"17Networks_RH_DorsAttnB_PostC_4","DorsAttnB","DorsAttn","Late Explicit",-0.000845393303703211
+"17Networks_RH_DorsAttnB_PostC_5","DorsAttnB","DorsAttn","Late Explicit",0.065623209106255
+"17Networks_RH_DorsAttnB_PostC_6","DorsAttnB","DorsAttn","Late Explicit",-0.00559975263329146
+"17Networks_RH_DorsAttnB_PostC_7","DorsAttnB","DorsAttn","Late Explicit",0.00830199257342813
+"17Networks_RH_DorsAttnB_PostC_8","DorsAttnB","DorsAttn","Late Explicit",0.0915297490160293
+"17Networks_RH_DorsAttnB_FEF_1","DorsAttnB","DorsAttn","Late Explicit",0.024933687158945
+"17Networks_RH_DorsAttnB_FEF_2","DorsAttnB","DorsAttn","Late Explicit",0.0658665696308892
+"17Networks_RH_DorsAttnB_FEF_3","DorsAttnB","DorsAttn","Late Explicit",0.00592498652141509
+"17Networks_RH_SalVentAttnA_ParOper_1","SalVentAttnA","VentAttn","Late Explicit",0.00121916937350468
+"17Networks_RH_SalVentAttnA_ParOper_2","SalVentAttnA","VentAttn","Late Explicit",-0.0093049983625591
+"17Networks_RH_SalVentAttnA_ParOper_3","SalVentAttnA","VentAttn","Late Explicit",-0.0604802388590981
+"17Networks_RH_SalVentAttnA_PrC_1","SalVentAttnA","VentAttn","Late Explicit",0.0159898141671384
+"17Networks_RH_SalVentAttnA_Ins_1","SalVentAttnA","VentAttn","Late Explicit",0.0198129587060795
+"17Networks_RH_SalVentAttnA_Ins_2","SalVentAttnA","VentAttn","Late Explicit",0.00747549612340302
+"17Networks_RH_SalVentAttnA_Ins_3","SalVentAttnA","VentAttn","Late Explicit",0.00826811855423797
+"17Networks_RH_SalVentAttnA_Ins_4","SalVentAttnA","VentAttn","Late Explicit",-0.03632196282163
+"17Networks_RH_SalVentAttnA_FrOper_1","SalVentAttnA","VentAttn","Late Explicit",-0.00966199200177544
+"17Networks_RH_SalVentAttnA_FrOper_2","SalVentAttnA","VentAttn","Late Explicit",0.0175334782004993
+"17Networks_RH_SalVentAttnA_FrOper_3","SalVentAttnA","VentAttn","Late Explicit",0.0222261130122482
+"17Networks_RH_SalVentAttnA_FrMed_1","SalVentAttnA","VentAttn","Late Explicit",0.0233188537666526
+"17Networks_RH_SalVentAttnA_ParMed_1","SalVentAttnA","VentAttn","Late Explicit",-0.0484113958179282
+"17Networks_RH_SalVentAttnA_ParMed_2","SalVentAttnA","VentAttn","Late Explicit",0.0142331684829937
+"17Networks_RH_SalVentAttnA_FrMed_2","SalVentAttnA","VentAttn","Late Explicit",0.0686710538965541
+"17Networks_RH_SalVentAttnA_ParMed_3","SalVentAttnA","VentAttn","Late Explicit",0.0493344793298454
+"17Networks_RH_SalVentAttnA_ParMed_4","SalVentAttnA","VentAttn","Late Explicit",0.00967994339973898
+"17Networks_RH_SalVentAttnA_FrMed_3","SalVentAttnA","VentAttn","Late Explicit",0.0354895306070898
+"17Networks_RH_SalVentAttnA_FrMed_4","SalVentAttnA","VentAttn","Late Explicit",-0.00304525676184659
+"17Networks_RH_SalVentAttnB_IPL_1","SalVentAttnB","VentAttn","Late Explicit",-0.00505953595371425
+"17Networks_RH_SalVentAttnB_PFClv_1","SalVentAttnB","VentAttn","Late Explicit",-0.00310686676022241
+"17Networks_RH_SalVentAttnB_PFCl_1","SalVentAttnB","VentAttn","Late Explicit",-0.00454376894059165
+"17Networks_RH_SalVentAttnB_PFCl_2","SalVentAttnB","VentAttn","Late Explicit",-0.00303418430757408
+"17Networks_RH_SalVentAttnB_PFCl_3","SalVentAttnB","VentAttn","Late Explicit",-0.00611514261161359
+"17Networks_RH_SalVentAttnB_Ins_1","SalVentAttnB","VentAttn","Late Explicit",0.00446513423533346
+"17Networks_RH_SalVentAttnB_Ins_2","SalVentAttnB","VentAttn","Late Explicit",0.00574907904478799
+"17Networks_RH_SalVentAttnB_PFCmp_1","SalVentAttnB","VentAttn","Late Explicit",-0.00201328078158558
+"17Networks_RH_SalVentAttnB_PFCmp_2","SalVentAttnB","VentAttn","Late Explicit",-0.00288896924233837
+"17Networks_RH_LimbicB_OFC_1","LimbicB","Limbic","Late Explicit",0.00759661868794466
+"17Networks_RH_LimbicB_OFC_2","LimbicB","Limbic","Late Explicit",0.0142673682558262
+"17Networks_RH_LimbicB_OFC_3","LimbicB","Limbic","Late Explicit",0.00864386918322678
+"17Networks_RH_LimbicB_OFC_4","LimbicB","Limbic","Late Explicit",-0.0116818441406709
+"17Networks_RH_LimbicB_OFC_5","LimbicB","Limbic","Late Explicit",0.0124014001107757
+"17Networks_RH_LimbicB_OFC_6","LimbicB","Limbic","Late Explicit",0.00184065643178919
+"17Networks_RH_LimbicA_TempPole_1","LimbicA","Limbic","Late Explicit",0.0151423721566222
+"17Networks_RH_LimbicA_TempPole_2","LimbicA","Limbic","Late Explicit",0.0204298989374256
+"17Networks_RH_LimbicA_TempPole_3","LimbicA","Limbic","Late Explicit",0.00795337358796931
+"17Networks_RH_LimbicA_TempPole_4","LimbicA","Limbic","Late Explicit",0.00967207688149587
+"17Networks_RH_LimbicA_TempPole_5","LimbicA","Limbic","Late Explicit",0.0124635893854112
+"17Networks_RH_LimbicA_TempPole_6","LimbicA","Limbic","Late Explicit",-0.00384807318459152
+"17Networks_RH_ContA_IPS_1","ContA","Control","Late Explicit",-0.00294732549229494
+"17Networks_RH_ContA_IPS_2","ContA","Control","Late Explicit",0.000432668187094872
+"17Networks_RH_ContA_IPS_3","ContA","Control","Late Explicit",0.0085190048948346
+"17Networks_RH_ContA_IPS_4","ContA","Control","Late Explicit",0.005971658871221
+"17Networks_RH_ContA_PFCd_1","ContA","Control","Late Explicit",-0.00121862851906025
+"17Networks_RH_ContA_PFCl_1","ContA","Control","Late Explicit",0.00315062656548557
+"17Networks_RH_ContA_PFCl_2","ContA","Control","Late Explicit",0.00244351761739387
+"17Networks_RH_ContA_PFCl_3","ContA","Control","Late Explicit",-0.00754526842835508
+"17Networks_RH_ContA_PFCl_4","ContA","Control","Late Explicit",0.000122595334643851
+"17Networks_RH_ContA_PFCl_5","ContA","Control","Late Explicit",0.000864850072788444
+"17Networks_RH_ContA_Cingm_1","ContA","Control","Late Explicit",0.000392620104298746
+"17Networks_RH_ContB_Temp_1","ContB","Control","Late Explicit",-0.000526424334873819
+"17Networks_RH_ContB_Temp_2","ContB","Control","Late Explicit",-0.000703844871116599
+"17Networks_RH_ContB_IPL_1","ContB","Control","Late Explicit",-0.00110507227465104
+"17Networks_RH_ContB_IPL_2","ContB","Control","Late Explicit",0.000458938267535511
+"17Networks_RH_ContB_IPL_3","ContB","Control","Late Explicit",0.000572967806128925
+"17Networks_RH_ContB_IPL_4","ContB","Control","Late Explicit",0.000144500213012186
+"17Networks_RH_ContB_PFCld_1","ContB","Control","Late Explicit",0.000308444478757702
+"17Networks_RH_ContB_PFCld_2","ContB","Control","Late Explicit",-0.00118712789377234
+"17Networks_RH_ContB_PFCld_3","ContB","Control","Late Explicit",-0.000538153225971277
+"17Networks_RH_ContB_PFCld_4","ContB","Control","Late Explicit",-0.000868119572537263
+"17Networks_RH_ContB_PFClv_1","ContB","Control","Late Explicit",0.000382137188039574
+"17Networks_RH_ContB_PFClv_2","ContB","Control","Late Explicit",-0.00130756545317372
+"17Networks_RH_ContB_PFClv_3","ContB","Control","Late Explicit",0.000871973594906607
+"17Networks_RH_ContB_PFClv_4","ContB","Control","Late Explicit",0.000285957489490116
+"17Networks_RH_ContB_PFCmp_1","ContB","Control","Late Explicit",0.000161450775306846
+"17Networks_RH_ContC_pCun_1","ContC","Control","Late Explicit",-0.000945856243081338
+"17Networks_RH_ContC_pCun_2","ContC","Control","Late Explicit",-0.000536220954544515
+"17Networks_RH_ContC_pCun_3","ContC","Control","Late Explicit",-0.0038799181978716
+"17Networks_RH_ContC_pCun_4","ContC","Control","Late Explicit",-0.000848937388358518
+"17Networks_RH_ContC_pCun_5","ContC","Control","Late Explicit",-0.000290972346909254
+"17Networks_RH_ContC_Cingp_1","ContC","Control","Late Explicit",0.00237389317862952
+"17Networks_RH_ContC_Cingp_2","ContC","Control","Late Explicit",-0.0039675124185384
+"17Networks_RH_DefaultA_Temp_1","DefaultA","Default","Late Explicit",0.00438689142827312
+"17Networks_RH_DefaultA_IPL_1","DefaultA","Default","Late Explicit",-0.0015470434833556
+"17Networks_RH_DefaultA_IPL_2","DefaultA","Default","Late Explicit",0.000898325402120933
+"17Networks_RH_DefaultA_PFCd_1","DefaultA","Default","Late Explicit",-0.00119055969147306
+"17Networks_RH_DefaultA_PFCd_2","DefaultA","Default","Late Explicit",-0.00118696220148221
+"17Networks_RH_DefaultA_pCunPCC_1","DefaultA","Default","Late Explicit",0.00232174867432118
+"17Networks_RH_DefaultA_pCunPCC_2","DefaultA","Default","Late Explicit",-0.00295084392694695
+"17Networks_RH_DefaultA_pCunPCC_3","DefaultA","Default","Late Explicit",-0.00186153660478319
+"17Networks_RH_DefaultA_pCunPCC_4","DefaultA","Default","Late Explicit",-0.00395448475867736
+"17Networks_RH_DefaultA_pCunPCC_5","DefaultA","Default","Late Explicit",-0.000322299925076713
+"17Networks_RH_DefaultA_PFCm_1","DefaultA","Default","Late Explicit",0.00413825481460635
+"17Networks_RH_DefaultA_PFCm_2","DefaultA","Default","Late Explicit",0.000260638442077973
+"17Networks_RH_DefaultA_PFCm_3","DefaultA","Default","Late Explicit",0.00170178500923341
+"17Networks_RH_DefaultA_PFCm_4","DefaultA","Default","Late Explicit",0.00248783733227491
+"17Networks_RH_DefaultA_PFCm_5","DefaultA","Default","Late Explicit",-0.00118410127426415
+"17Networks_RH_DefaultA_PFCm_6","DefaultA","Default","Late Explicit",-0.00124974834236067
+"17Networks_RH_DefaultB_Temp_1","DefaultB","Default","Late Explicit",-0.00165418262349007
+"17Networks_RH_DefaultB_Temp_2","DefaultB","Default","Late Explicit",-0.00326814257093522
+"17Networks_RH_DefaultB_AntTemp_1","DefaultB","Default","Late Explicit",0.00913662122506805
+"17Networks_RH_DefaultB_PFCd_1","DefaultB","Default","Late Explicit",-0.00021236349373799
+"17Networks_RH_DefaultB_PFCd_2","DefaultB","Default","Late Explicit",-0.00278801260164747
+"17Networks_RH_DefaultB_PFCd_3","DefaultB","Default","Late Explicit",0.00119083531493499
+"17Networks_RH_DefaultB_PFCd_4","DefaultB","Default","Late Explicit",-0.000545266640937922
+"17Networks_RH_DefaultB_PFCd_5","DefaultB","Default","Late Explicit",-0.00100744079873129
+"17Networks_RH_DefaultB_PFCv_1","DefaultB","Default","Late Explicit",-0.0018116206296573
+"17Networks_RH_DefaultB_PFCv_2","DefaultB","Default","Late Explicit",0.00453799814639494
+"17Networks_RH_DefaultB_PFCv_3","DefaultB","Default","Late Explicit",0.00115335792659569
+"17Networks_RH_DefaultC_IPL_1","DefaultC","Default","Late Explicit",-0.00145263304208777
+"17Networks_RH_DefaultC_IPL_2","DefaultC","Default","Late Explicit",-0.00184691877092453
+"17Networks_RH_DefaultC_Rsp_1","DefaultC","Default","Late Explicit",-0.00198327572615378
+"17Networks_RH_DefaultC_Rsp_2","DefaultC","Default","Late Explicit",0.00102197009787616
+"17Networks_RH_DefaultC_PHC_1","DefaultC","Default","Late Explicit",-0.000545121980671488
+"17Networks_RH_DefaultC_PHC_2","DefaultC","Default","Late Explicit",0.00299196074696169
+"17Networks_RH_TempPar_1","TempPar","TempPar","Late Explicit",0.000877263925785904
+"17Networks_RH_TempPar_2","TempPar","TempPar","Late Explicit",-0.00165622318560784
+"17Networks_RH_TempPar_3","TempPar","TempPar","Late Explicit",0.00222704736835143
+"17Networks_RH_TempPar_4","TempPar","TempPar","Late Explicit",-0.00121719510303685
+"17Networks_RH_TempPar_5","TempPar","TempPar","Late Explicit",0.000946379656270191
+"17Networks_RH_TempPar_6","TempPar","TempPar","Late Explicit",-0.00159282629948318
+"17Networks_RH_TempPar_7","TempPar","TempPar","Late Explicit",0.00454296940300457
+"17Networks_RH_TempPar_8","TempPar","TempPar","Late Explicit",-3.98526027569769e-05
+"17Networks_RH_TempPar_9","TempPar","TempPar","Late Explicit",0.00299129529531415
+"17Networks_RH_TempPar_10","TempPar","TempPar","Late Explicit",-0.000707021739896127
+"Left Caudate","Subcortex","Subcortex","Late Explicit",7.42593278472349e-05
+"Left Putamen","Subcortex","Subcortex","Late Explicit",0.000215920627729041
+"Left Pallidum","Subcortex","Subcortex","Late Explicit",-0.000446058141802657
+"Left Accumbens","Subcortex","Subcortex","Late Explicit",0.000309180904624709
+"Right Caudate","Subcortex","Subcortex","Late Explicit",5.97029378311216e-05
+"Right Putamen","Subcortex","Subcortex","Late Explicit",0.000153280852400476
+"Right Pallidum","Subcortex","Subcortex","Late Explicit",1.31319696175212e-05
+"Right Accumbens","Subcortex","Subcortex","Late Explicit",0.000114521779053437
+"Left I-IV","Cerebellum","Cerebellum","Late Explicit",0.00033417057352107
+"Right I-IV","Cerebellum","Cerebellum","Late Explicit",-0.000442646287890977
+"Left V","Cerebellum","Cerebellum","Late Explicit",-1.02421360342657e-05
+"Right V","Cerebellum","Cerebellum","Late Explicit",0.000797980388109161
+"Left VI","Cerebellum","Cerebellum","Late Explicit",-0.00256612592491758
+"Vermis VI","Cerebellum","Cerebellum","Late Explicit",0.000630755496965021
+"Right VI","Cerebellum","Cerebellum","Late Explicit",0.000996969789021876
+"Left Crus I","Cerebellum","Cerebellum","Late Explicit",-0.000566084259891336
+"Vermis Crus I","Cerebellum","Cerebellum","Late Explicit",-0.00266709748178624
+"Right Crus I","Cerebellum","Cerebellum","Late Explicit",0.000905475783039958
+"Left Crus II","Cerebellum","Cerebellum","Late Explicit",-0.00172666412704759
+"Vermis Crus II","Cerebellum","Cerebellum","Late Explicit",-0.00274629796935486
+"Right Crus II","Cerebellum","Cerebellum","Late Explicit",-0.00125803250958264
+"Left VIIb","Cerebellum","Cerebellum","Late Explicit",-0.00313824854640572
+"Vermis VIIb","Cerebellum","Cerebellum","Late Explicit",0.0036793456014755
+"Right VIIb","Cerebellum","Cerebellum","Late Explicit",-0.00219703555740849
+"Left VIIIa","Cerebellum","Cerebellum","Late Explicit",-0.000453088919727302
+"Vermis VIIIa","Cerebellum","Cerebellum","Late Explicit",0.00180325815845899
+"Right VIIIa","Cerebellum","Cerebellum","Late Explicit",0.0018089186010923
+"Left VIIIb","Cerebellum","Cerebellum","Late Explicit",-0.000350321435966347
+"Vermis VIIIb","Cerebellum","Cerebellum","Late Explicit",0.00120976645027246
+"Right VIIIb","Cerebellum","Cerebellum","Late Explicit",0.00233922769539968
+"Left IX","Cerebellum","Cerebellum","Late Explicit",0.00286417839988856
+"Vermis IX","Cerebellum","Cerebellum","Late Explicit",0.00346713853558853
+"Right IX","Cerebellum","Cerebellum","Late Explicit",0.00485687149581788
+"Left X","Cerebellum","Cerebellum","Late Explicit",0.00157610114565597
+"Vermis X","Cerebellum","Cerebellum","Late Explicit",0.00196747114130911
+"Right X","Cerebellum","Cerebellum","Late Explicit",-0.00361719111886035
